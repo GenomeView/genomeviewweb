@@ -23,7 +23,7 @@ The visualizations for both formats are slightly different. You can either downl
 ###  C. elegans
 Download [C. elegans](https://software.broadinstitute.org/genomeview/demo/c_elegans/download/c_elegans.tar.gz). This basic data set includes the references sequence for C. elegans, as well as gene annotion. We also included an RNA-seq data set, both as individual reads and as a pileup track. 
 
-<img src="img/celegans.png" width="40"/>
+<img src="img/celegans.png" width="40%"/>
 
 ### D. melanogaster
 
