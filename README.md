@@ -2,6 +2,16 @@
 
 GenomeView is a stand-alone genome browser and editor initiated in the BEG group at [VIB](https://vib.be/en), then further developed at [Broad Institute](https://www.broadinstitute.org/) and currently maintained at [TU Delft](https://reit.tudelft.nl/). It provides interactive visualization of sequences, annotation, multiple alignments, syntenic mappings, short read alignments and more. Many standard file formats are supported.
 
+## System requirements
+
+Recommended system specs:
+
+* 2 Gb of memory, minimum is 1 Gb
+* dual-core or better processor, but GenomeView will work with less.
+* To browse online data, it's recommended to have a high-speed, low-latency connection
+* Recent version of Windows, *nix or Mac OS
+* Recent version of Java 17+. You can get a recent version from http://www.java.com.
+    
 
 ## Installation
 
@@ -10,7 +20,10 @@ It is assumed that you already have java 17 or higher installed. To install Geno
 * Go to https://artifactory.ewi.tudelft.nl/ui/native/libs-release/net/sf/genomeview
 * Click the version you need, probably the highest version number available.
 * download the jar-with-dependencies.jar file.
-* double click on the jar file to start the app.
+* Start the app, using one of the following
+    * on the commandline with ```java -Xmx4g -jar genomeview.jar```. You can change the '4g' into a bigger number
+    if you need more memory in GenomeView.
+    * double click on the jar file to start the app. This will run with the default memory.
 
 > [!TIP]
 > 'double click to start' may require you to set the jar file to 'executable' and/or 
