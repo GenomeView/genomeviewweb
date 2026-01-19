@@ -5,6 +5,9 @@ This page presents a number of prepared, small size genome data sets.
 For some datasets there are also multiple formats and alignments available.
 We have prepared B.anthracis, C.elegans and D.melanogaster for you.
 
+>[!TIP]
+>You can either download or copy the links below, GenomeViewer accepts both local files and URLs.
+
 ## B. anthracis
 Bacillus anthracis is a bacterium that causes anthrax, a deadly disease to livestock and, occasionally, to humans.
 
