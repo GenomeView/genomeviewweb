@@ -13,8 +13,7 @@ Bacillus anthracis is a bacterium that causes anthrax, a deadly disease to lives
 	<figcaption>Bacillus Anthracis (anthrax)</figcaption>
 <figure>
 
-
-  Download [B. anthracis basic dataset](https://software.broadinstitute.org/genomeview/demo/b_anthracis/). This dataset includes the references sequence for Bacillus anthracis, as well as annotion of genes, rRNAs and tRNAs. Two sequencing data sets are included. One whole genome sequencing to discover variations and one RNA-seq data set*.
+  Download  or copy the link of  [B. anthracis basic dataset](https://software.broadinstitute.org/genomeview/demo/b_anthracis/). This dataset includes the references sequence for Bacillus anthracis, as well as annotion of genes, rRNAs and tRNAs. Two sequencing data sets are included. One whole genome sequencing to discover variations and one RNA-seq data set*.
   
 There are also two multiple alignments available. Both contain the same set of aligned species, but differ in format: 
   
@@ -25,11 +24,43 @@ The visualizations for both formats are slightly different. You can either downl
 
  
 ##  C. elegans
-Download [C. elegans](https://software.broadinstitute.org/genomeview/demo/c_elegans/download/c_elegans.tar.gz). This basic data set includes the references sequence for C. elegans, as well as gene annotion. We also included an RNA-seq data set, both as individual reads and as a pileup track. 
 
+Caenorhabditis elegans is a small worm of about 1 mm in length that lives in temperate soil environments
+
+<table>
+tr>
+<td>
+<figure>
+	<img src="img/c.elegans.jpg" width="40%"/>
+	<figcaption>C. elegans</figcaption>
+<figure>
+</td><td>
 <figure>
 	<img src="img/celegans.png" width="40%"/>
 	<figcaption>C. elegans</figcaption>
 <figure>
+</td>
+</tr>
+</table>
+
+Download  or copy the link of  [C. elegans](https://software.broadinstitute.org/genomeview/demo/c_elegans/download/c_elegans.tar.gz). This basic data set includes the references sequence for C. elegans, as well as gene annotion. We also included an RNA-seq data set, both as individual reads and as a pileup track. 
+
 
 ## D. melanogaster
+Drosophila melanogaster is often referred to as 'fruit fly'. 
+
+<figure>
+	<img src="img/fruitfly.jpg" width="40%"/>
+	<figcaption>Bacillus Anthracis (anthrax)</figcaption>
+<figure>
+
+<figure>
+	<img src="img/dmelan.png" width="40%"/>
+	<figcaption>Drosophila melanogaster gene</figcaption>
+<figure>
+
+Download or copy the link of  [D. Melanogaster](https://software.broadinstitute.org/genomeview/demo/d_melanogaster/download/dmelan.tar.gz).
+
+
+
+This basic data set includes the reference sequence for D. melanogaster, as well as gene annotation. A multiple alignment of twelve Drosophila species is included as a MAF file. Furthermore, transcriptome data in the form of paired-end RNA-seq is loaded. 
