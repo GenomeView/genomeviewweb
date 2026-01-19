@@ -3,24 +3,26 @@
 GenomeView is a stand-alone genome browser and editor initiated in the BEG group at [VIB](https://vib.be/en), then further developed at [Broad Institute](https://www.broadinstitute.org/) and currently maintained at [TU Delft](https://reit.tudelft.nl/). It provides interactive visualization of sequences, annotation, multiple alignments, syntenic mappings, short read alignments and more. Many standard file formats are supported.
 
 
-## installation
+## Installation
 
-It is assumed that you already have java installed. To install GenomeView, 
+It is assumed that you already have java 17 or higher installed. To install GenomeView, 
 
 * Go to https://artifactory.ewi.tudelft.nl/ui/native/libs-release/net/sf/genomeview
 * Click the version you need, probably the highest version number available.
-* download the jar-with-dependencies.jar file
-* double click on the jar file
+* download the jar-with-dependencies.jar file.
+* double click on the jar file to start the app.
 
 > [!TIP]
-> double clicking may require you to set the jar file to 'executable' and 
+> 'double click to start' may require you to set the jar file to 'executable' and/or 
 > setting the default application for 'jar' files. 
 > On Linux for example, right click on the jar, "Open with other Application", 
 > select "use a custom command" and enter ```java -jar``` in the text box. Then click open.
 
-## Manual
+## Manuals
 
-We have 3 manuals for you
+We have several manuals for you
+
+* [Quick Start Guide](StartGuide.md)
 
 * [The User Manual](UserManual.md)
 
