@@ -31,12 +31,12 @@ Caenorhabditis elegans is a small worm of about 1 mm in length that lives in tem
 tr>
 <td>
 <figure>
-	<img src="img/c.elegans.jpg" width="40%"/>
+	<img src="img/c.elegans.jpg" />
 	<figcaption>C. elegans</figcaption>
 <figure>
 </td><td>
 <figure>
-	<img src="img/celegans.png" width="40%"/>
+	<img src="img/celegans.png" />
 	<figcaption>C. elegans</figcaption>
 <figure>
 </td>
