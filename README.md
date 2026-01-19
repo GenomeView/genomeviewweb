@@ -12,7 +12,7 @@ It is assumed that you already have java installed. To install GenomeView,
 * download the jar-with-dependencies.jar file
 * double click on the jar file
 
-> [!INFO]
+> [!TIP]
 > double clicking may require you to set the jar file to 'executable' and 
 > setting the default application for 'jar' files. 
 > On Linux for example, right click on the jar, "Open with other Application", 
