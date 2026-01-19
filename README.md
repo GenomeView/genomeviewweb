@@ -17,3 +17,18 @@ It is assumed that you already have java installed. To install GenomeView,
 > setting the default application for 'jar' files. 
 > On Linux for example, right click on the jar, "Open with other Application", 
 > select "use a custom command" and enter ```java -jar``` in the text box. Then click open.
+
+## Manual
+
+We have 3 manuals for you
+
+* [The User Manual](UserManual.md)
+
+* [The Platform User Manual](PlatformUserManual.md)
+
+* [The Developer Manual](DeveloperManual.md)
+
+## Source code
+
+The source code is available on [http://github.com/genomeview/genomeview](github). .
+
