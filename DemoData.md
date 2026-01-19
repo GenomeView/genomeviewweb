@@ -9,7 +9,7 @@ We have prepared B.anthracis, C.elegans and D.melanogaster for you.
 Bacillus anthracis is a bacterium that causes anthrax, a deadly disease to livestock and, occasionally, to humans.
 
 <figure>
-	<img src="img/anthrax.jpg" width="40%"/>
+	<img src="img/anthrax.png" width="40%"/>
 	<figcaption>Bacillus Anthracis (anthrax)</figcaption>
 <figure>
 
