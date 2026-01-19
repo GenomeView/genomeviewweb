@@ -28,7 +28,7 @@ The visualizations for both formats are slightly different. You can either downl
 Caenorhabditis elegans is a small worm of about 1 mm in length that lives in temperate soil environments
 
 <table>
-tr>
+<tr>
 <td>
 <figure>
 	<img src="img/c.elegans.jpg" />
