@@ -15,3 +15,5 @@ It is assumed that you already have java installed. To install GenomeView,
 > [!INFO]
 > double clicking may require you to set the jar file to 'executable' and 
 > setting the default application for 'jar' files. 
+> On Linux for example, right click on the jar, "Open with other Application", 
+> select "use a custom command" and enter ```java -jar``` in the text box. Then click open.
