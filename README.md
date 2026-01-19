@@ -1,6 +1,6 @@
 # genomeview
 
-GenomeView is a next-generation stand-alone genome browser and editor initiated in the BEG group at VIB, then further developed at Broad Institute and currently maintained at TU Delft. It provides interactive visualization of sequences, annotation, multiple alignments, syntenic mappings, short read alignments and more. Many standard file formats are supported.
+GenomeView is a stand-alone genome browser and editor initiated in the BEG group at [VIB](https://vib.be/en), then further developed at [Broad Institute](https://www.broadinstitute.org/) and currently maintained at [TU Delft](https://reit.tudelft.nl/). It provides interactive visualization of sequences, annotation, multiple alignments, syntenic mappings, short read alignments and more. Many standard file formats are supported.
 
 
 ## installation
