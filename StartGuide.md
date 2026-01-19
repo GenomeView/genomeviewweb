@@ -25,7 +25,7 @@ Download [C. elegans](https://software.broadinstitute.org/genomeview/demo/c_eleg
 
 <figure>
 	<img src="img/celegans.png" width="40%"/>
-	<figcaption>Caption goes here</figcaption>
+	<figcaption>C. elegans</figcaption>
 <figure>
 
 ### D. melanogaster
