@@ -55,7 +55,7 @@ Drosophila melanogaster is often referred to as 'fruit fly'.
 <td>
 <figure>
 	<img src="img/fruitfly.jpg" />
-	<figcaption>Bacillus Anthracis (anthrax)</figcaption>
+	<figcaption>fruit fly</figcaption>
 <figure>
 </td><td>
 <figure>
