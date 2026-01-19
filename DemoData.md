@@ -49,15 +49,26 @@ Download  or copy the link of  [C. elegans](https://software.broadinstitute.org/
 ## D. melanogaster
 Drosophila melanogaster is often referred to as 'fruit fly'. 
 
+
+<table>
+<tr>
+<td>
 <figure>
-	<img src="img/fruitfly.jpg" width="40%"/>
+	<img src="img/fruitfly.jpg" />
 	<figcaption>Bacillus Anthracis (anthrax)</figcaption>
 <figure>
-
+</td><td>
 <figure>
-	<img src="img/dmelan.png" width="40%"/>
+	<img src="img/dmelan.png" />
 	<figcaption>Drosophila melanogaster gene</figcaption>
 <figure>
+</td>
+</tr>
+</table>
+
+
+
+
 
 Download or copy the link of  [D. Melanogaster](https://software.broadinstitute.org/genomeview/demo/d_melanogaster/download/dmelan.tar.gz).
 
