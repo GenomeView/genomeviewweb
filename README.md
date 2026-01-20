@@ -18,9 +18,10 @@ Recommended system specs:
 
 It is assumed that you already have java 17 or higher installed. To install GenomeView, 
 
-* Install java if it's not yet installed. 
-    * You can check by running 'java' in the commandline. 
+* Install java 18 or higher if it's not yet installed. 
+    * You can check by running 'java -version' in the commandline.  
     * You can get an installer from http://www.java.com or https://openjdk.org/. 
+    * On linux you can `sudo apt install openjdk-17`
     * If you only want to run java you can install the `JRE`, for compilation you should install the `JDK`.
 * Go to https://artifactory.ewi.tudelft.nl/ui/native/libs-release/net/sf/genomeview
 * Click the version you need, probably the highest version number available.
