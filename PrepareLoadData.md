@@ -98,7 +98,16 @@ Genome variation and diversity, Allele diversity
 <tr><th>Data type</th><th>File format</th><th>Index*</th><th colspan="2">Max size**</th><th>Comments</th></tr>
 <tr><td rowspan="4" valign="top">Read coverage summary</td><td><b> <a href="PrepareValueData.md" class="mw-redirect" title="Tdf">tdf</a></b> <sup>¤</sup></td><td>Native</td><td>unlimited</td><td>unlimited</td><td><a href="/TDF" class="mw-redirect" title="TDF">TDF</a> files can be created with the <a href="/Bam2tdf" title="Bam2tdf">bam2tdf</a> tool that is available for <a rel="nofollow" class="external text" href="https://sourceforge.net/projects/genomeview/files/TDformat/">download.</a></td></tr>
 <tr><td>bigwig</td><td>Native</td><td>unlimited</td><td>unlimited</td><td>This format can be used for any wig file, not just read coverage</td></tr>
-<tr><td><a href="/Pileup" title="Pileup">pileup</a></td><td>Required</td><td>--</td><td>unlimited</td><td>The pileup format becomes slow when you have extreme read depth (&gt;5000 x coverage)</td></tr>
-<tr><td>wig</td><td>Not possible</td><td>50 Mb</td><td>--</td><td>We strongly recommend to <a href="/Wig2tdf" title="Wig2tdf">convert your wig files to TDF</a>. 
+<tr><td><a href="Pileup.md" title="Pileup">pileup</a></td><td>Required</td><td>--</td><td>unlimited</td><td>The pileup format becomes slow when you have extreme read depth (&gt;5000 x coverage)</td></tr>
+<tr><td>wig</td><td>Not possible</td><td>50 Mb</td><td>--</td><td>We strongly recommend to <a href="Wig2tdf.md" title="Wig2tdf">convert your wig files to TDF</a>. 
 GenomeView can automatically convert wig files to TDF. Caveats: 'track' information should all be on a single line, 'browser' lines will be ignored as the are specific to the UCSC Genome Browser. WIG files need to be sorted by chromosome and by genomic coordinate within the chromosome. BedGraph as well as Wiggle_0 format is supported. For the wiggle_0 type, both variableStep and fixedStep should work.</td></tr>
+</tbody></table>
+
+
+###  Genome variation and diversity
+
+<!-- straight copy of original table because special layout -->
+<table border="1"><tbody>
+<tr><th>Data type</th><th>File format</th><th>Index*</th><th colspan="2">Max size**</th><th>Comments</th></tr>
+<tr><td>Genome variation</td><td><b> <a href="PrepareVcfData.md" class="mw-redirect" title="Vcf">vcf</a></b> <sup>¤</sup></td><td>Not recommended</td><td>--</td><td>unlimited</td><td>It is recommended to run <a href="/Reducevcf" title="Reducevcf">reducevcf</a> on VCF prior to loading them, this will speed up the loading time significantly.</td></tr>
 </tbody></table>
