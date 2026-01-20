@@ -52,10 +52,21 @@ Genome variation and diversity, Allele diversity
 
 <!-- straight copy of original table because special layout -->
 <table border="1"><tbody>
-
 <tr><th>Data type</th><th>File format</th><th>Index*</th><th colspan="2">Max size**</th><th>Comments</th></tr>
 <tr><th></th><th></th><th></th><th>unindexed***</th><th>indexed</th><th></th></tr>
 <tr><td rowspan="2" valign="top">Reference sequence</td><td><b>fasta</b> <sup>¤</sup></td><td>Recommended<br><a href="PrepareReferenceSequence.md" class="mw-redirect" title="Index FASTA">Index FASTA</a></td><td>50 Mb</td><td>unlimited</td><td>GenomeView will query the user create index for you if you don't have one and the file is very large.</td></tr>
 <tr><td>embl, genbank</td><td>Not possible</td><td>50 Mb</td><td>--</td><td>EMBL and genbank are mixed file formats that can contain both annotation and reference sequence at the same time.</td></tr>
 </tbody></table>
 
+### Annotation
+
+<!-- straight copy of original table because special layout -->
+<table border="1"><tbody>
+<tr><th>Data type</th><th>File format</th><th>Index*</th><th colspan="2">Max size**</th><th>Comments</th></tr>
+<tr><td rowspan="4" valign="top">Annotation</td><td><b>gff</b> <sup>¤</sup></td><td>Not recommended
+<a href="PrepareAnnotation.md" class="mw-redirect" title="Index GFF">Index GFF</a></td><td>50 Mb</td><td>unlimited</td><td></td></tr>
+<tr><td>embl, genbank</td><td>Not possible</td><td>50 Mb</td><td>--</td><td>EMBL and genbank are mixed file formats that can contain both annotation and reference sequence at the same time.</td></tr>
+<tr><td>bed</td><td>Not recommended <a href="PrepareAnnotation.md" class="mw-redirect" title="Index BED">Index BED</a></td><td>50 Mb or less</td><td>unlimited</td><td>By default data from a bed file is added to the CDS track, if you want it in a different track, you have to add a line a the top of the file 'track name=Track_name'. No white-space is allowed in the track name.</td></tr>
+<tr><td>ptt, tbl </td><td>Not possible</td><td>50 Mb or less</td><td>--</td><td>Other standard annotation formats GenomeView understands</td></tr>
+<tr><td></td><td>various formats</td><td>Not possible</td><td>50 Mb or less</td><td>--</td><td>GenomeView can directly parse the output of the following programs: Blast, GeneMark, TransTermHP, FindPeaks, MaqSNP, tRNA-scan</td></tr>
+</tbody></table>
