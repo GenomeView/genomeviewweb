@@ -111,3 +111,43 @@ GenomeView can automatically convert wig files to TDF. Caveats: 'track' informat
 <tr><th>Data type</th><th>File format</th><th>Index*</th><th colspan="2">Max size**</th><th>Comments</th></tr>
 <tr><td>Genome variation</td><td><b> <a href="PrepareVcfData.md" class="mw-redirect" title="Vcf">vcf</a></b> <sup>¤</sup></td><td>Not recommended</td><td>--</td><td>unlimited</td><td>It is recommended to run <a href="/Reducevcf" title="Reducevcf">reducevcf</a> on VCF prior to loading them, this will speed up the loading time significantly.</td></tr>
 </tbody></table>
+
+
+### Allele diversity
+
+<!-- straight copy of original table because special layout -->
+<table border="1"><tbody>
+<tr><th>Data type</th><th>File format</th><th>Index*</th><th colspan="2">Max size**</th><th>Comments</th></tr>
+<tr><td>Allele diversity summary</td><td><b> <a href="Pileup.md" title="Pileup">pileup</a></b> <sup>¤</sup></td><td>Required</td><td>--</td><td>unlimited</td><td>The pileup format becomes slow when you have extreme read depth (&gt;5000 x coverage)</td></tr>
+</tbody></table>
+
+
+* Indicates whether this file format can/should be indexed. 
+
+** Recommended maximum file size. First value is without index, the second with index. This values are only guidelines. When loading multiple data sets, you should add the sizes.
+
+*** Unindexed data files can be gzip compressed.
+
+¤ Recommended file format for this data type.
+
+
+## Output formats
+
+(Modified) annotations can be saved as either GFF or EMBL.
+
+All data that is loaded can be exported in their original format. This will not include modifications.
+
+
+## Converting formats
+
+We offer a few [tools to convert files between formats](/loki).
+Previous documentation pages
+
+Supported data formats Fasta files
+
+Feature files
+
+Read data
+
+Coverage plots 
+

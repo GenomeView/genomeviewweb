@@ -4,7 +4,7 @@ The command-line, also known console or terminal allows you to interact with com
 
 ## Starting the command-line
 
-###Windows
+### Windows
 
 Press the windows button and R
 
