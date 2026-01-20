@@ -43,6 +43,15 @@ This is a list of file formats that are recommended for different data types. Se
 |Genome synteny	|experimental	|Preparing genome synteny|
 
 ## Supported data formats
-There are supported formats for refrence sequences, annotation, Whole genome alignments
+There are supported formats for reference sequences, annotation, Whole genome alignments
 , Read alignments, Read coverage summary - continuous value data, 
 Genome variation and diversity, Allele diversity
+
+
+### Reference sequence
+<table border="1">
+<tbody><tr><th>Data type</th><th>File format</th><th>Index*</th><th colspan="2">Max size**</th><th>Comments</th></tr>
+<tr><th></th><th></th><th></th><th>unindexed***</th><th>indexed</th><th></th></tr>
+<tr><td rowspan="2" valign="top">Reference sequence</td><td><b>fasta</b> <sup>¤</sup></td><td>Recommended<br><a href="/Index_FASTA" class="mw-redirect" title="Index FASTA">Index FASTA</a></td><td>50 Mb</td><td>unlimited</td><td>GenomeView will query the user create index for you if you don't have one and the file is very large.</td></tr>
+<tr><td>embl, genbank</td><td>Not possible</td><td>50 Mb</td><td>--</td><td>EMBL and genbank are mixed file formats that can contain both annotation and reference sequence at the same time.</td></tr>
+</tbody></table>
