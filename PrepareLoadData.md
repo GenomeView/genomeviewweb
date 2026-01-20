@@ -141,13 +141,16 @@ All data that is loaded can be exported in their original format. This will not 
 ## Converting formats
 
 We offer a few [tools to convert files between formats](/loki).
-Previous documentation pages
 
-Supported data formats Fasta files
+## Previous documentation pages
 
-Feature files
+[Supported data formats ](http://genomeview.org/content/data-formats)
 
-Read data
+[Fasta files](http://genomeview.org/content/preparing-fasta-files)
 
-Coverage plots 
+[Feature files](http://genomeview.org/content/preparing-feature-files)
+
+[Read data](http://genomeview.org/content/preparing-short-read-alignments)
+
+[Coverage plots](http://genomeview.org/content/preparing-pileup)
 
