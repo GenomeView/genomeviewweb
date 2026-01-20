@@ -49,7 +49,8 @@ chr1	13	48	61
 chr1	14	53	79
 ```
 
-> [!Note] the white-space between the columns are tabs, one tab between each column.
+> [!Note] 
+> the white-space between the columns are tabs, one tab between each column.
 
 Once you have such a file, you can again index it for faster access and shorter download times.
 
