@@ -38,8 +38,8 @@ The file should be organized in four columns. The first column holds the identif
 
 1.    Identifier
 1.    Genomic position (one-based)
-1.    # forward reads
-1.    # reverse reads
+1.    number of  forward reads
+1.    number of  reverse reads
 
 Example:
 ```
