@@ -26,6 +26,8 @@ It is assumed that you already have java 17 or higher installed. To install Geno
 * Go to https://artifactory.ewi.tudelft.nl/ui/native/libs-release/net/sf/genomeview
 * Click the version you need, probably the highest version number available.
 * download the jar-with-dependencies.jar file.
+
+## Start GenomeView
 * Start the app, using one of the following
     * on the commandline with ```java -Xmx4g -jar genomeview.jar```. You can change the '4g' into a bigger number
     if you need more memory in GenomeView.
@@ -36,6 +38,14 @@ It is assumed that you already have java 17 or higher installed. To install Geno
 > setting the default application for 'jar' files. 
 > On Linux for example, right click on the jar, "Open with other Application", 
 > select "use a custom command" and enter ```java -jar``` in the text box. Then click open.
+
+## Log files
+GenomeView log files are in the folder .genomeview (dot genomeview) in your home folder of your local computer.
+
+* On MS Windows versions this is `C:/Users/[username]/.genomeview`
+* On Mac and Linux this is `~/.genomeview`
+
+If you can still start GenomeView, you can find the exact location under the 'Help menu' > 'About'
 
 ## Manuals
 

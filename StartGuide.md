@@ -2,7 +2,17 @@
 
 This quick start guide gives a few example projects you can try
 and suggests some actions you can do with GenomeView.
-It is you have [installed GenomeView](README.md#installation) and you can start it.
 
-* Get a genome dataset from our [Demo Datasets](DemoData.md).
-* Start 
+
+* [Install GenomeView](README.md#installation).
+* [Start GenomeView](README.md#start-genomeview)
+* Get your data ready: either
+    * Get a [Demo Dataset](DemoData.md).
+    * [Prepare and load your data](PrepareLoadData.md)
+* Navigation and Keyboard short-cuts
+* Visualizations
+* Search for...
+* Manipulating and configuring the views
+* Editing annotations
+* Exporting data and saving changes
+
