@@ -68,7 +68,7 @@ Upgrading to a recent version (>=2144) of GenomeView resolves this issue.
 
 
 ## Where do I find the log files?
-(Please refer to )[README.md#log-files]
+[Please refer to here](README.md#log-files)
 
 
 ## How do I show annotation on a multiple alignment?
