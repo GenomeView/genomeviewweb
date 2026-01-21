@@ -84,4 +84,6 @@ Some examples:
 ```
 
 Note: Track aliases are unrelated to aliases set up in the session file with the ALIAS command. You can make a track alias in a session file with the OPTION command:
+```
  OPTION track:alias:gene=All the genes
+``` 
