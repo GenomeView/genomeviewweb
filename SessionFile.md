@@ -5,7 +5,7 @@ A session file allows you to organize a large number of data files and config op
 
 An example session file:
 
- https://software.broadinstitute.org/genomeview/genomes/mtb_h37rv_v2/session.php
+https://raw.githubusercontent.com/GenomeView/genomeviewweb/refs/heads/main/files/mtb_h37rv_v2/session.php
 
 
 You can use 'View source', or something similar, in your browser to see the actual file structure. It is a plain text file with on each line a file that needs to be loaded.
