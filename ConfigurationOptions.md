@@ -29,8 +29,8 @@ For any other data type, you have to specify the file file name or URL where the
 
 Some examples for remote files:
 ```
- <nowiki>track:weight:http://www.broadinstitute.org/software/genomeview/demo/idea_challenge/Directional_RNAseq/MCF7_dir100.bam=100</nowiki>
- <nowiki>track:weight:http://www.broadinstitute.org/software/genomeview/demo/idea_challenge/Directional_RNAseq/MCF10_dir75.bam=200</nowiki>
+ track:weight:http://www.broadinstitute.org/software/genomeview/demo/idea_challenge/Directional_RNAseq/MCF7_dir100.bam=100
+ track:weight:http://www.broadinstitute.org/software/genomeview/demo/idea_challenge/Directional_RNAseq/MCF10_dir75.bam=200
 ```
 
 This will also work with local files:
