@@ -44,22 +44,24 @@ Each of the lines should be organized like this:
 
 For example, all of these are valid ways to specify a file
 ```
- DATA	http://www.broadinstitute.org/software/genomeview/genomes/mtb_h37rv_v2/MT_H37RV_V2.fasta
- DATA http://www.broadinstitute.org/software/genomeview/genomes/mtb_h37rv_v2/annotation.gff
- DATA:http://www.broadinstitute.org/software/genomeview/genomes/mtb_h37rv_v2/operon.gff
+ DATA	https://raw.githubusercontent.com/GenomeView/genomeviewweb/refs/heads/main/files/mtb_h37rv_v2/MT_H37RV_V2.fasta
+ DATA https://raw.githubusercontent.com/GenomeView/genomeviewweb/refs/heads/main/files/mtb_h37rv_v2/annotation.gff
+ DATA:https://raw.githubusercontent.com/GenomeView/genomeviewweb/refs/heads/main/files/mtb_h37rv_v2/operon.gff
 ```
 ### Example session file
 ```
  ##GenomeView session -- DO NOT DELETE THIS LINE
- CONFIG http://www.broadinstitute.org/software/genomeview/genomes/mtb_h37rv_v2/tbconfig.txt
+ CONFIG https://raw.githubusercontent.com/GenomeView/genomeviewweb/refs/heads/main/files/mtb_h37rv_v2/tbconfig.txt
  ALIAS MT_H37RV_V2=MyTBGenome
- DATA http://www.broadinstitute.org/software/genomeview/genomes/mtb_h37rv_v2/MT_H37RV_V2.fasta
- PREFIX http://www.broadinstitute.org/software/genomeview/genomes/mtb_h37rv_v2/
+ DATA https://raw.githubusercontent.com/GenomeView/genomeviewweb/refs/heads/main/files/mtb_h37rv_v2/MT_H37RV_V2.fasta
+ PREFIX https://raw.githubusercontent.com/GenomeView/genomeviewweb/refs/heads/main/files/mtb_h37rv_v2/
  DATA annotation.gff
  DATA operon.gff
  DATA sRNA.gff
  DATA rRNA.gff
  PREFIX
- PLUGIN http://www.broadinstitute.org/software/genomeview/resources/save2pdf-1.1.zip
 ```
+
+<!-- removed the last line of the example session file because plugin doesn't exist -->
+<!-- PLUGIN http://www.broadinstitute.org/software/genomeview/resources/save2pdf-1.1.zip -->
 
