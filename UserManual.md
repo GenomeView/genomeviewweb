@@ -7,8 +7,9 @@ This documentation is open for anyone to contribute to, just click the edit-butt
 Feel free to copy documentation from the old manual to here, there are still some pages that need to be transferred and we're happy with any help you can spare. 
 
 
+TODO
+
 
 # FAQ
-
-This section lists frequently asked questions.
+Please check the [FAQ wiki](FAQ.md).
 

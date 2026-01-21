@@ -1,0 +1,33 @@
+##gff-version 3								
+##Mycobacterium tuberculosis H37Rv								
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	293604	293641	.	+	.	F6_a
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	293604	293661	.	+	.	F6_b
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	293604	293705	.	+	.	F6_c
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	704187	704247	.	+	.	B55
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	918264	918432	.	+	.	ASdes_a
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	918350	918412	.	+	.	ASdes_b
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	918365	918458	.	+	.	ASdes_c
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	1915028	1914977	.	-	.	G2_b
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	1915190	1914962	.	-	.	G2_a
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	1952503	1952291	.	-	.	AS1726_a
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	1952503	1952400	.	-	.	AS1726_b
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	1952503	1952375	.	-	.	AS1726_c
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	1952503	1952367	.	-	.	AS1726_d
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	1952503	1952351	.	-	.	AS1726_e
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	2139419	2139656	.	+	.	AS1890_a
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	2139419	2139466	.	+	.	AS1890_b
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	2139419	2139548	.	+	.	AS1890_c
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	2139419	2139594	.	+	.	AS1890_d
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	2299745	2299886	.	+	.	ASpks_a
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	2299785	2299873	.	+	.	ASpks_b
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	2299796	2299873	.	+	.	ASpks_c
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	4099478	4099386	.	-	.	B11
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	4168281	4168154	.	-	.	C8_a
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	4168281	4168212	.	-	.	C8_b
+MT_H37RV_V2	Arnvig_Young_2009	sRNA	4168281	4168224	.	-	.	C8_c
+MT_H37RV_V2	Panek_Vohradsky_2008	sRNA	3360620	3360598	.	-	.	S. coelicolor ortho 1
+MT_H37RV_V2	Panek_Vohradsky_2008	sRNA	1205849	1205992	.	-	.	S. coelicolor ortho 2
+MT_H37RV_V2	Panek_Vohradsky_2008	sRNA	4099379	4099520	.	-	.	S. coelicolor ortho 3
+MT_H37RV_V2	Panek_Vohradsky_2008	sRNA	3834889	3834785	.	-	.	S. coelicolor ortho 4
+MT_H37RV_V2	Panek_Vohradsky_2008	sRNA	3640142	3640237	.	-	.	S. coelicolor ortho 5
+MT_H37RV_V2	Panek_Vohradsky_2008	sRNA	2075588	2075769	.	+	.	S. coelicolor ortho 6
