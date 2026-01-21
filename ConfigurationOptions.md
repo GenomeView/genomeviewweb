@@ -10,7 +10,9 @@ There are several places from where GenomeView tries to load configuration infor
 * Default configuration present within the release package
 
 
-The default configuration file is [http://sourceforge.net/p/genomeview/genomeview-code/ci/master/tree/resources/conf/default.conf available from the code repository] and should be considered the primary source of information regarding configuration options. 
+The default configuration file is
+[available from the code repository](https://github.com/GenomeView/genomeview/blob/master/src/main/resources/conf/default.conf)
+ and should be considered the primary source of information regarding configuration options. 
 
 ## Configuring track order
 To configure the order of tracks you can use the <code>track:weight:XXX</code> configuration option. This will give a weight to each track and heavier tracks will be placed lower on the screen.
