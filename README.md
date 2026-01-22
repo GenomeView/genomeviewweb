@@ -43,7 +43,6 @@ Recommended system specs:
 
 ## Installation
 
-
 * Install java 18 or higher if it's not yet installed. 
     * You can check by running 'java -version' in the commandline.  
     * You can get an installer from http://www.java.com or https://openjdk.org/. 
@@ -51,7 +50,7 @@ Recommended system specs:
     * If you only want to run java you can install the `JRE`, for compilation you should install the `JDK`.
 * Go to https://artifactory.ewi.tudelft.nl/ui/native/libs-release/net/sf/genomeview
 * Click the version you need, probably the highest version number available.
-* download the jar-with-dependencies.jar file.
+* download the jar-with-dependencies.jar file and store it at a convenient place on your computer.
 
 ## Start GenomeView
 * Start the app, using one of the following
