@@ -22,9 +22,9 @@ GernomeView offers
 
 <table>
 <tr>
-<td><img src="img/sample1.jpg" width="30%"/></td>
-<td><img src="img/sample2.jpg" width="30%"/></td>
-<td><img src="img/sample3.jpg" width="30%"/></td>
+<td><img src="img/sample1.jpg" /></td>
+<td><img src="img/sample2.jpg" /></td>
+<td><img src="img/sample3.jpg" /></td>
 </tr>
 </table>
 
