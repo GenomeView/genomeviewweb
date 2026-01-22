@@ -7,7 +7,9 @@ The configure panel is accessed through the menu File/Configuration.
 
 The configuration panel has several tabs, discussed in the next sections.
 
-
+The panel allows a subset of the configuration file values
+to be changed. The documentation of the values currently is only in the
+[example configuration](https://github.com/GenomeView/genomeview/blob/master/src/main/resources/conf/default.conf) file.
 
 ## Structure View
 In this view you can enable or disable the way the viewer renders the genomes.
@@ -42,13 +44,13 @@ The default is that a is red, t green, g blue, c yellow, n black.
 * Minimum coverage for SNPs to be shown. 
 * Maximum number of displayed reads. What does this mean? 25000 reads sounds very small, given human dna is done with 30x coverage or more? What if there are more reads?
 * Max display depth of stacked reads
-* Draw connection between paired reads. What are paired reads?
-* max number of reads to cache. how does caching work
-* max distance between paired reads. ? Why is this value twice?
-* Color reads mapping to the forward strand for sense transcripts:?
-* Color reads mapping to the reverse strand for sense transcripts:?
-* Color reads mapping to the forward strand for anti-sense transcripts:? 
-* Color reads mapping to the reverse strand for anti-sense transcripts: ?
+* Draw connection between paired reads. 
+* max number of reads to cache. 
+* max distance between paired reads. (Why is this value twice?)
+* Color reads mapping to the forward strand for sense transcripts
+* Color reads mapping to the reverse strand for sense transcripts
+* Color reads mapping to the forward strand for anti-sense transcripts
+* Color reads mapping to the reverse strand for anti-sense transcripts
 * Color of line between paired reads
 * Mate different chromosome
 * Missing mate
