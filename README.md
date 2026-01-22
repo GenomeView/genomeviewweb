@@ -32,9 +32,9 @@ Recommended system specs:
 
 ## Start GenomeView
 * Start the app, using one of the following
+    * double click on the jar file to start the app. This will run with the default memory.
     * on the commandline with ```java -Xmx4g -jar genomeview.jar```. You can change the '4g' into a bigger number
     if you need more memory in GenomeView.
-    * double click on the jar file to start the app. This will run with the default memory.
 
 > [!TIP]
 > 'double click to start' may require you to set the jar file to 'executable' and/or 
