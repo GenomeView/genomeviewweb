@@ -20,4 +20,4 @@ Check [wikipedia](https://en.wikipedia.org/wiki/FASTA_format) for details on the
 Indexing is used to improve performance, to improve the 
 ability of tools to rapidly access random locations of large files.
 
-Indexing of a Fasta file can be done with the [samtools](https://www.htslib.org/doc/samtools-faidx.html).
+Indexing of a Fasta file can be done with the [samtools](https://www.htslib.org/doc/samtools-faidx.html). Check the [Prepare reference sequence wiki](PrepareReferenceSequence.md) for details.
