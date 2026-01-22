@@ -19,6 +19,8 @@ The repository file is a tab-delimited file where each column has a special mean
 * url to the session file.
 
 An example row could be:
+| | | | | |
+|--|--|--|--|--|
 |fusobac|Fusobacterium nucleatum animalis|http://genomeview.org/manual/images/6/69/Gv_logo-96px.png|Fusobacterium nucleatum animalis is from a colon sample.  This strain was sequenced at Baylor College of Medicine. |http://myuniversity.org/fusobacterium/Fuso_animalis.session|
 
 
