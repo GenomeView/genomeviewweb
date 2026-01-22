@@ -1,8 +1,9 @@
- !<img align="right"src="img/splash.png"/>
  ![GenomeView](img/splash.png#right)
  
 # GenomeView
 
+<img align="right" src="img/splash.png"/>
+ 
 This is the documentation page for [GenomeView](https://github.com/GenomeView/genomeview).
 
 [GenomeView](https://github.com/GenomeView/genomeview) is a stand-alone genome browser and editor initiated in the BEG group at [VIB](https://vib.be/en), then further developed at [Broad Institute](https://www.broadinstitute.org/) and currently maintained at [TU Delft](https://reit.tudelft.nl/). It provides interactive visualization of sequences, annotation, multiple alignments, syntenic mappings, short read alignments and more. Many standard file formats are supported.
