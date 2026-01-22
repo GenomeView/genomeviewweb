@@ -1,23 +1,7 @@
-# Preparing and loading data
+# Preparing Data
 
-There are several easy ways to load up data into GenomeView. Before you load your data, you may want to make sure you're using a supported format from the list below. Generally, GenomeView will notify you if it doesn't understand your data. 
+Before you load your data, you may want to make sure you're using a supported format from the list below. Generally, GenomeView will notify you if it doesn't understand your data. 
 
-## Loading data
-
-You can load your data files in various ways:
-
-* by selecting "work with my data" in the Genome Explorer
-* by dragging them onto GenomeView
-* by selecting the 'File' menu and then 'Load data...' (tutorial)
-* by pressing CTRL+O
-* by specifying them as argument on the command-line
-* by loading a session file
-
-
-You can load preloaded data by:
-
-* selecting a genome from the Genome Explorer
-* following a link from a GenomeView enabled website
 
 ## Data preparation recipe
 
