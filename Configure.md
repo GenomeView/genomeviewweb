@@ -3,7 +3,7 @@
 The [behaviour of GenomeView](Visualization.md) can be configured in the Configuration panel.
 The configure panel is accessed through the menu File/Configuration.
 
-![Configure Panel](img/configure.png)
+<img src="img/configure.png" width="60%"/>
 
 The configuration panel has several tabs, discussed in the next sections.
 
