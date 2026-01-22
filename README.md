@@ -1,4 +1,4 @@
- <img align="right"src="img/splash.png"/>
+ !<img align="right"src="img/splash.png"/>
  ![GenomeView](img/splash.png#right)
  
 # GenomeView
