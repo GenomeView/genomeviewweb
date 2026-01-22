@@ -1,8 +1,6 @@
- ![GenomeView](img/splash.png#right)
- 
 # GenomeView
 
-<img align="right" src="img/splash.png"/>
+<img align="right" src="img/splash.png" width="30%"/>
  
 This is the documentation page for [GenomeView](https://github.com/GenomeView/genomeview).
 
