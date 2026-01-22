@@ -29,6 +29,9 @@ Will start GenomeView with 10g of main memory available and all the specified fi
 
 ## Available options
 Options for use on the command line or with website integration.
+
+|option|explanation|
+|---|---|
 | `--file <file>`|Load this file first, all other files will be loaded concurrently after this files has finished| 
 | `--url <url>`| Load the data from this url first. After this has finished, all other files will be loaded concurrently| 
 | `--session <file or url>`|Load the session from this URL or file. This parameter will override all others.| 
