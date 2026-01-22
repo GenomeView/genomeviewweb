@@ -35,6 +35,6 @@ Options for use on the command line or with website integration.
 | `--file <file>`|Load this file first, all other files will be loaded concurrently after this files has finished| 
 | `--url <url>`| Load the data from this url first. After this has finished, all other files will be loaded concurrently| 
 | `--session <file or url>`|Load the session from this URL or file. This parameter will override all others.| 
-| `--config <file or url>`|Load extra configuration options from this file or URL. This configuration will override default and user configuration. See [Configuration](Configuration.md) for more details.| 
+| `--config <file or url>`|Load extra configuration options from this file or URL. This configuration will override default and user configuration. See [Configuration](ConfigurationOptions.md) for more details.| 
 | `--position <position>`|Zoom to the supplied position on start-up. You need to use this in conjunction with the `--url` or `--file option`. First that file or url will be loaded and then GenomeView will zoom to the supplied position. The position is in the format `<entry>:<start position>:<end position>` The entry part can be omitted in which case it becomes `<start position>:<end position>`| 
 | remaining arguments| Load all remaining files and URLs specified on the command line|

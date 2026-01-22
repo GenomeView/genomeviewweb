@@ -5,17 +5,16 @@ These pages discuss how to configure a number of things using the configuration 
 There are several places from where GenomeView tries to load configuration information. It will look in the specified order.
 
 * Config files specified in the session file
-* Configuration supplied on the command line or start-up URLwith the --config option
+* [Configuration supplied on the command line](CommandLineOptions.md) or start-up URLwith the --config option.
 * Personal config file. This can be changed through the menu File -> Configuration.
 * Default configuration present within the release package
 
 
-The default configuration file is
-[available from the code repository](https://github.com/GenomeView/genomeview/blob/master/src/main/resources/conf/default.conf)
- and should be considered the primary source of information regarding configuration options. 
+The default configuration file is [here](https://github.com/GenomeView/genomeview/blob/master/src/main/resources/conf/default.conf)
+and is primary source of information regarding configuration options. 
 
 ## Configuring track order
-To configure the order of tracks you can use the <code>track:weight:XXX</code> configuration option. This will give a weight to each track and heavier tracks will be placed lower on the screen.
+To configure the order of tracks you can use the `track:weight:XXX` configuration option. This will give a weight to each track and heavier tracks will be placed lower on the screen.
 
 For annotation features you have give the type as XXX. You cannot use the file name method below. For example:
 
@@ -42,7 +41,7 @@ This will also work with local files:
 Deciding which method to use depends on the type of data: annotation are by type, other data is by file name.
 
 ## Configuring track visibility
-To configure the initial visibility of tracks you can use the <code>track:visible:XXX</code> configuration option. This will tell GenomeView whether the track is initially visible or hidden
+To configure the initial visibility of tracks you can use the `track:visible:XXX` configuration option. This will tell GenomeView whether the track is initially visible or hidden
 
 For annotation features you give the type as XXX. For example:
 
