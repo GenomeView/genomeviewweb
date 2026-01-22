@@ -1,6 +1,6 @@
 # GenomeView
 
-<img align="right" src="img/splash.png" width="30%"/>
+<img align="right" src="img/splash.png" width="50%"/>
  
 This is the documentation page for [GenomeView](https://github.com/GenomeView/genomeview).
 
