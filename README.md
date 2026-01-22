@@ -43,7 +43,7 @@ Recommended system specs:
 > select "use a custom command" and enter ```java -jar``` in the text box. Then click open.
 
 <figure>
-	<img src="img/genomeview.png" width="40%"/>
+	<img src="img/genomeview.png" width="70%"/>
 	<figcaption>GenomeView startup screen</figcaption>
 <figure>
 
