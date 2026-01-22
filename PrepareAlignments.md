@@ -10,7 +10,7 @@
     1. Generate the multiple alignment Example:  `tba "(((((((human chimp) gorilla) baboon) (rat mouse)) (cow pig)) chicken) fugu)" *.*.maf tba.maf >&tba.log`
     1. "project" the alignment onto a reference sequence.   This will not make it a reference-based alignment; it just allows for visualization. Example:  `maf_project tba.maf chicken > tba_project_chicken.maf`
 
-# Loading .maf files into GenomeView
+## Loading .maf files into GenomeView
 Once you have a .maf multiple alignment, projected onto a reference genome, you can load this into GenomeView.
 
 First, verify that all contig ID’s used in the .maf file match the contig ID’s used in your genome sequence and annotation files.  Load the genome sequence, annotation, and .maf file with matching contig ID’s into Genomeview.
