@@ -42,6 +42,12 @@ Recommended system specs:
 > On Linux for example, right click on the jar, "Open with other Application", 
 > select "use a custom command" and enter ```java -jar``` in the text box. Then click open.
 
+<figure>
+	<img src="img/genomeview.png" width="40%"/>
+	<figcaption>GenomeView startup screen</figcaption>
+<figure>
+
+
 ## Log files
 GenomeView log files are in the folder `.genomeview` (dot genomeview) in your home folder of your local computer.
 
