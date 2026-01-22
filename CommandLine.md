@@ -1,6 +1,6 @@
 # Command-line
 
-The command-line, also known console or terminal allows you to interact with computer programs by typing instructions for the computer to execute.
+The command-line, also known console, command line interface (CLI) or terminal allows you to interact with computer programs by typing instructions for the computer to execute.
 
 ## Starting the command-line
 

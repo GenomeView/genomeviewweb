@@ -6,6 +6,29 @@ This is the documentation page for [GenomeView](https://github.com/GenomeView/ge
 
 [GenomeView](https://github.com/GenomeView/genomeview) is a stand-alone genome browser and editor initiated in the BEG group at [VIB](https://vib.be/en), then further developed at [Broad Institute](https://www.broadinstitute.org/) and currently maintained at [TU Delft](https://reit.tudelft.nl/). It provides interactive visualization of sequences, annotation, multiple alignments, syntenic mappings, short read alignments and more. Many standard file formats are supported.
 
+## Features
+GernomeView offers
+
+*    Genome browser
+*    Short read alignment visualization
+*    Multiple alignment viewer
+*    Comparative genomics
+*    NGS (Next Generation Sequencing) viewer
+*    Annotation editor
+*    Easy integration with existing websites and data platforms
+*    Authentication and encryption
+
+## Project Samples
+
+<table>
+<tr>
+<td><img src="img/sample1.jpg" width="30%"/></td>
+<td><img src="img/sample2.jpg" width="30%"/></td>
+<td><img src="img/sample3.jpg" width="30%"/></td>
+</tr>
+</table>
+
+
 ## System requirements
 
 Recommended system specs:
