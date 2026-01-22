@@ -3,7 +3,7 @@
 ##  Creating a multiple alignment
 
 * You can use an aligner such as TBA (Threaded Blockset Aligner).  This can be downloaded from http://www.bx.psu.edu/miller_lab/
-* Instructions for using TBA are here: http://www.bx.psu.edu/miller_lab/dist/tba_howto.pdf
+* [Instructions for using TBA](files/tba_howto.pdf)
 * A phylogenetic tree is a required input.
 * Three are 3 steps required to run TBA:
     1. Generate a series of pair-wise alignments to “seed” the multiple alignment process.  Example:  `all_bz - "(((((((human chimp) gorilla) baboon) (rat mouse)) (cow pig)) chicken) fugu)" blastz.specs >&all_bz.log`
