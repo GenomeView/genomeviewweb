@@ -1,4 +1,5 @@
  <img align="right"src="img/splash.png"/>
+ ![image alt >](img/splash.png)
  
 # GenomeView
 
