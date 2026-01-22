@@ -6,9 +6,9 @@
 * Instructions for using TBA are here: http://www.bx.psu.edu/miller_lab/dist/tba_howto.pdf
 * A phylogenetic tree is a required input.
 * Three are 3 steps required to run TBA:
-# Generate a series of pair-wise alignments to “seed” the multiple alignment process.  Example:  `all_bz - "(((((((human chimp) gorilla) baboon) (rat mouse)) (cow pig)) chicken) fugu)" blastz.specs >&all_bz.log`
-# Generate the multiple alignment Example:  `tba "(((((((human chimp) gorilla) baboon) (rat mouse)) (cow pig)) chicken) fugu)" *.*.maf tba.maf >&tba.log`
-# "project" the alignment onto a reference sequence.   This will not make it a reference-based alignment; it just allows for visualization. Example:  `maf_project tba.maf chicken > tba_project_chicken.maf`
+    1. Generate a series of pair-wise alignments to “seed” the multiple alignment process.  Example:  `all_bz - "(((((((human chimp) gorilla) baboon) (rat mouse)) (cow pig)) chicken) fugu)" blastz.specs >&all_bz.log`
+    1. Generate the multiple alignment Example:  `tba "(((((((human chimp) gorilla) baboon) (rat mouse)) (cow pig)) chicken) fugu)" *.*.maf tba.maf >&tba.log`
+    1. "project" the alignment onto a reference sequence.   This will not make it a reference-based alignment; it just allows for visualization. Example:  `maf_project tba.maf chicken > tba_project_chicken.maf`
 
 # Loading .maf files into GenomeView
 Once you have a .maf multiple alignment, projected onto a reference genome, you can load this into GenomeView.
