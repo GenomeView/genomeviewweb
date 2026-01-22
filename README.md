@@ -43,7 +43,7 @@ Recommended system specs:
 > select "use a custom command" and enter ```java -jar``` in the text box. Then click open.
 
 ## Log files
-GenomeView log files are in the folder .genomeview (dot genomeview) in your home folder of your local computer.
+GenomeView log files are in the folder `.genomeview` (dot genomeview) in your home folder of your local computer.
 
 * On MS Windows versions this is `C:/Users/[username]/.genomeview`
 * On Mac and Linux this is `~/.genomeview`
