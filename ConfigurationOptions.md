@@ -7,7 +7,7 @@ There are several places from where GenomeView tries to load configuration infor
 * Config files specified in the session file
 * [Configuration supplied on the command line](CommandLineOptions.md) or start-up URLwith the --config option.
 * Personal config file. This can be changed through the menu File -> Configuration.
-* The settings in the [Configuration menu](Configuration).
+* The settings in the [Configuration menu](Configure.md).
 * Default configuration present within the release package
 
 
