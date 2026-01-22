@@ -20,7 +20,6 @@ Recommended system specs:
 
 ## Installation
 
-It is assumed that you already have java 17 or higher installed. To install GenomeView, 
 
 * Install java 18 or higher if it's not yet installed. 
     * You can check by running 'java -version' in the commandline.  
