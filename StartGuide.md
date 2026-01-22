@@ -8,7 +8,8 @@ and suggests some actions you can do with GenomeView.
 * [Start GenomeView](README.md#start-genomeview)
 * Get your data ready: either
     * Get a [Demo Dataset](DemoData.md).
-    * [Prepare and load your data](PrepareLoadData.md)
+    * [Prepare your data](PrepareLoadData.md)
+* [Load your Data](LoadData.md)
 * Navigation and Keyboard short-cuts
 * Visualizations
 * Search for...
