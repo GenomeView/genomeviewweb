@@ -4,7 +4,9 @@ This page will introduce the different components of GenomeView and will explain
 
 
 
-<strong>Components of GenomeView</strong><br/>The layout of GenomeView is in two columns. The left side is a graphical representation of the data, while on the right side you can find additional information, controllers and options in the form of tables.
+### Components of GenomeView
+
+The layout of GenomeView is in two columns. The left side is a graphical representation of the data, while on the right side you can find additional information, controllers and options in the form of tables.
 
 <img style=\"width:100%\" src=\"/sites/default/files/screen3.PNG\" alt=\"GenomeView screenshot\" />
 
@@ -30,7 +32,7 @@ Shows a list of all data sources that are currently loaded. For some track types
 ##### Track list
 Provides a list of all tracks that are currently available. When loading new data, new tracks will automatically be added to accommodate the new data. This panel can also be used to manipulate the different tracks. The first column controls whether the data from this particular track is also displayed on the structure track. See the description of the tracks for more information. The second column controls whether the track will be displayed and the third column controls whether the track will be drawn fully, or in a collapsed state. The fourth and fifth column can be used to change the order of tracks.
 
-#####Features
+##### Features
 Shows a list of all features of a particular type. See the description of the feature track for more details.
 
 ##### Details on selected item
