@@ -4,7 +4,7 @@ This page will introduce the different components of GenomeView and will explain
 
 
 
-### Components of GenomeView
+## Components of GenomeView
 
 The layout of GenomeView is in two columns. The left side is a graphical representation of the data, while on the right side you can find additional information, controllers and options in the form of tables.
 
