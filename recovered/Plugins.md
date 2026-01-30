@@ -1,0 +1,6 @@
+# Plugins
+
+> [!WARNING]
+> Plugins are deprecated and will be removed soon.
+
+Plugins are the basic extension mechanism to create new functionality for GenomeView, without modifying the core application. \r\n\r\n<a name=\"install\"></a>\r\n<strong>Installing a plugin</strong>\r\n<ul>\r\n<li>Download the plugin. <a href=\"/plugins\">A list of currently hosted plug-ins is available.</a></li>\r\n<li>Typically a plugin is distributed in a zip package. Extract the archive, you only need the jar-file. The rest of the archive may contain other useful information, but the jar-file contains the actual plugin.</li>\r\n<li>Locate the GenomeView configuration and plugin directory: <a href=\"/content/where-are-configuration-and-plugin-directory-genomeview\">Locating configuration directory</a>\r\n</li>\r\n<li>Copy the jar-file that you extracted into the <code>plugin</code> subdirectory of the <code>.genomeview</code> directory. You should have run GenomeView at least once for these directories to exist.</li>\r\n<li>Once you (re)start GenomeView, the newly installed plugin will be available.</li>\r\n<li>New actions that are made available by the plugin are generally available in the Plugin menu</li>\r\n</ul>\r\n\r\n
