@@ -1,3 +1,21 @@
+
+
+#1305
+In releases 1295 and 1305 we have made some more improvements to the rendering speed of some tracks, in particular when a lot of data is on screen. Furthermore, we have improved the visual clues when not all data can be displayed. Besides improving the speed, we have also fixed a number of bugs and implemented some smaller feature requests:\r\n\r\n<ul>\r\n<li>Menu action to extent to the next start codon</li>\r\n<li>Configuration option to have all possible start codons considered, or just ATG</li>\r\n<li>The order species appear in a multiple alignment can now be configured</li>\r\n<li>It is no long possible to create features outside the sequence</li>\r\n<li>Perform better error checking and correction on configuration files, a badly formatted config file will no longer crash the whole application</li>\r\n<li>Fixed bug that would insert some nucleotides at the beginning of the sequence when using indexed data and viewing the first nucleotide</li>\r\n</ul>
+
+#1255
+In release 1255 we have improved the performance and visual representation of the short read track and the pile up track.\r\n\r\nThe short read track now also displays the connection lines properly for spliced reads when zoomed out.\r\n\r\nThe pileup track now has a pop-up with detailed information about the read coverage and polymorphisms at a particular site.\r\n
+
+
+#1227
+The latest snapshot of GenomeView has some new features as well as a number of bug fixes.\r\n\r\nThe main novelty is the improved pile-up tracks. The pile-up track can now show the coverage information from forward and reverse reads separately. This makes inspection of Chip-Seq data easier than ever.\r\n\r\n\r\n\r\n
+
+
+#1198
+
+We are pleased to announce that we have released a new version of GenomeView which includes a huge number of improvements.\r\n\r\n<ul>\r\n<li>Support more file formats</li>\r\n<li>Support for indexed file formats created by SAMtools (tabix, faidx). This required a redesign of the data handling framework.</li>\r\n<li>GenomeView is now also available as Applet and as JComponent for integration in other websites and tools.</li>\r\n<li>Simplified GUI significantly</li>\r\n<li>Asynchronous data fetching for some data types, this will be expanded on in the future</li>\r\n<li>Fixed  a significant number of bugs: 2902516, 2974564, 2947910, 2947908, 2969208, 2957908, 2835050, 2888150, 3053572, 3053564, 3053533, 3053527, 3053516, 3041869, 3009517, 2934863, 2903299, 2902517, 2898589, 3046207, 3053511</li>\r\n</ul>\r\n\r\nThe new version is available when clicking the orange launch button in the top-right corner. We are currently testing all integration instances to make sure they work with the new version. As soon as testing is done, we will update the start-script as well. \r\n\r\nIf you run into any problems please do contact us on the <a href=\"mailto:genomeview-support@lists.sourceforge.net\">mailing list</a> or post a <a href=\"http://sourceforge.net/tracker/?group_id=208107\">support ticket</a>.\r\n\r\n
+
+
 #922
 There are two new visual features in GenomeView: \r\n1) Short read alignments contain now visual clues to the read alignment quality. Reads with a high mapping quality are colored dark, while reads with low mapping quality will be lighter.\r\n\r\n<img width=\"250\" src=\"/sites/default/files/shadingsnp.PNG\" alt=\"Picture showing shades of mapping quality\" />\r\n\r\n2) At the top of the short read track there is now also a SNP track shows the frequency of alternative nucleotides for a position. \r\n\r\n3) Major improvements to the visualization of the gene structure track to make it look a lot less clunky.\r\n\r\n4) Uniform mouse-functions throughout the visualization tracks.\r\n<!--break-->\r\nFurther bug fixes included:\r\n2974564  	 Status bar updates\r\n2969208  	 SNP threshold\r\n2957908  	 configurable read-coverage track\r\n2952768  	 Shift-drag should always select\r\n2950609  	 right arrow broken\r\n2947910  	 AA track layout\r\n2947908  	 DNA line background\r\n2946612  	 Navigation Feel\r\n...
 
