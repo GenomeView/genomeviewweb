@@ -29,7 +29,8 @@ Watch the video full screen for best quality
 <object width="660" height="525"><param name="movie" value="http://www.youtube.com/v/Sn3GFQZg1lU&hl=en&fs=1&rel=0&color1=0x2b405b&color2=0x6b8ab6&hd=1&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Sn3GFQZg1lU&hl=en&fs=1&rel=0&color1=0x2b405b&color2=0x6b8ab6&hd=1&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="660" height="525"></embed></object>
 
 ### Loading data from a URL
-[![Load Video Data](https://img.youtube.com/vi/upAqRdTXAqQ/0.jpg)](https://www.youtube.com/watch?v=upAqRdTXAqQ)
+[![Load Video Data](https://img.youtube.com/vi/upAqRdTXAqQ/0.jpg)](https://www.youtube.com/embed/upAqRdTXAqQ)
+Click to play
 
 
 
