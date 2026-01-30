@@ -8,21 +8,24 @@ This page will introduce the different components of GenomeView and will explain
 
 The layout of GenomeView is in two columns. The left side is a graphical representation of the data, while on the right side you can find additional information, controllers and options in the form of tables.
 
-<img style=\"width:100%\" src=\"/sites/default/files/screen3.PNG\" alt=\"GenomeView screenshot\" />
+![GenomeView screenshot](/img/screen3.PNG)
+
 
 ### Left column - graphical representation
 <br/>The top part of the screen can be used to quickly navigate over the sequence.
 
-<img style=\"width:100%\" src=\"/sites/default/files/navigator.PNG\" alt=\"GenomeView navigator\" />
+![GenomeView navigator](/img/navigator.PNG)
+
 
 Draggin the blue box (or the circular extensions) allows you to move left-right over the sequence. Dragging the left or right edge of the box will enlarge the view in that particular direction. The number indicates the size of the currently visible region.<br/><br/>Below the navigation panel, all tracks are displayed. A track is any set of information that belongs together. A track can contain a number of types of information. See the page about tracks for more details.
 
-<img style=\"width:100%\" src=\"/sites/default/files/tracks.PNG\" alt=\"GenomeView right panel\" />
+![GenomeView tracks](/img/tracks.PNG)
 
 
 ### Right column - information and controllers
 
-<img style=\"width:25%\" src=\"/sites/default/files/rightpanel.PNG\" alt=\"GenomeView right panel\" />
+![GenomeView right panel](/img/rightpanel.PNG)
+
 
 There are five panels in the right column
 
