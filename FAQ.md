@@ -77,10 +77,9 @@ Prerequisite: The multiple alignment needs to be in maf format.
 To load a separate annotation onto each genome for a multiple
 alignment in Genomeview:
 
-###### Enable comparative annotations
-First, go to "Configuration" under "File". Click the arrow in the top
-right until the "Comparative track" menu appears. Check the box
-labeled "Enable comparative annotations".
+1. Go to "Configuration" under "File". 
+2. Click the arrow in the top right until the "Comparative track" menu appears. 
+3. Check the box labeled "Enable comparative annotations".
 
 
 ### Why does my multiple alignment load as reference sequences?
