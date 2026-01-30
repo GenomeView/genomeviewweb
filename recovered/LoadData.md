@@ -22,17 +22,16 @@ Note that you can select multiple files at once.
 
 There are two sample data files attached to this page you could use. One file contains genomic sequence, the other one annotation for this sequence. The data represents the mitochondrial DNA of C. elegans (WS200).
 
-The videos below show how to open data from a local file and from a URL.
 
-Watch the video full screen for best quality
+[![Load Video Data](https://img.youtube.com/vi/Sn3GFQZg1lU/0.jpg)](https://www.youtube.com/embed/Sn3GFQZg1lU)
 
-<object width="660" height="525"><param name="movie" value="http://www.youtube.com/v/Sn3GFQZg1lU&hl=en&fs=1&rel=0&color1=0x2b405b&color2=0x6b8ab6&hd=1&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Sn3GFQZg1lU&hl=en&fs=1&rel=0&color1=0x2b405b&color2=0x6b8ab6&hd=1&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="660" height="525"></embed></object>
+Click to play video
+
 
 ### Loading data from a URL
 [![Load Video Data](https://img.youtube.com/vi/upAqRdTXAqQ/0.jpg)](https://www.youtube.com/embed/upAqRdTXAqQ)
-Click to play
+
+Click to play video
 
 
 
-
-<object width="660" height="525"><param name="movie" value="http://www.youtube.com/v/upAqRdTXAqQ&hl=en&fs=1&rel=0&color1=0x2b405b&color2=0x6b8ab6&hd=1&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/upAqRdTXAqQ&hl=en&fs=1&rel=0&color1=0x2b405b&color2=0x6b8ab6&hd=1&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="660" height="525"></embed></object>
