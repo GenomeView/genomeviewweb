@@ -14,7 +14,7 @@ You can use the arrows on the keypad of your keyboard to move around in the evid
 
 |key|effect|
 |---|---|
-|ctrl-CCopy the selected sequence to the clipboard|
+|ctrl-C|Copy the selected sequence to the clipboard|
 |ctrl-D|Load the contents of a directory as new entries|
 |ctrl-E|Edit the selected feature|
 |ctrl-F|Open the SearchView|
