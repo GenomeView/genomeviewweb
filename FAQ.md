@@ -94,3 +94,22 @@ If the problem persists, there may be an index file cached by GenomeView. You ca
 ## Where do I find documentation?
 This list does not cover all topics, but should cover the most common ones. The menu on the left with the title 'Documentation' has links to all manual pages.
 
+
+
+
+## I loaded a new file and its not showing
+For data to get linked, the identifiers in the files have to match. Very likely if your data is not showing, the identifiers where not the same and they didnt get linked. To diagnose this problem, go to the Entry drop down list near the top of the screen, below the menus and click it. If there are multiple entries there, and you didnt know you loaded multiple, you have mismatching entries. Youll have to correct them in the files.
+
+## Where do I change what I see in the \"gene structure view\"?
+On the right there is a "Track list". There you can select which features are displayed on the structure and annotation views.
+
+## I find the tracks too large (too high)...
+open the menu `file /configuration`. Choose the Structure View\"
+there set the height of the track in pixels [default is 20px]
+
+## Where are the configuration and plugin directory of GenomeView?
+The GenomeView configuration directory, this directory is named `.genomeview` and resides in your home directory. On a *nix system your home directory is typically located at `/home/username`. On Window XP it is found at `C:Documents` and Settingsusername.
+
+## I was able to start GenomeView once, but now it wont work anymore
+In the configuration directory there is a file named `personal.conf.gz`. Delete this file and try again. If it still doesnt work, file a bug report.
+
