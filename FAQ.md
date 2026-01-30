@@ -12,7 +12,7 @@ In order to help you as quickly as possible, make sure to include the following 
 *    What operating system? OS X, Windows, ...?
 *    Which version of Java are you running?
 *    If you have problems with specific files, it is extremely helpful if you can share to files for us to reproduce the problem. Are those files local or remote?
-*    Include the log file from the problematic GenomeView run. Instructions to find log files can be found here: http://www.genomeview.org/content/where-do-i-find-log-files DL
+*    Include the log file from the problematic GenomeView run. Instructions to find log files can be found [here](Readme.md#log-files)
 
 
 ### How are display labels of features determined?
