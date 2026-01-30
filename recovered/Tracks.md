@@ -4,7 +4,7 @@ All visualizations in GenomeView are organized in tracks. A track typically hold
 
 On the right side of the window there is an overview of all tracks that are currently available. 
 
-<img src=\"/sites/default/files/tracklist.PNG\" />
+![](/img/tracklist.PNG)
 
 This is the list you will get when you start GenomeView without any preloaded data. 
 
@@ -13,7 +13,7 @@ You can reorder the tracks by dragging them up and down in this table.
 
 ## Gene structure track
 
-<img src=\"/sites/default/files/genestructuretrack.png\"/>
+![](/img/genestructuretrack.png)
 
 This tracks shows a number of things, some of which only are visible when you are sufficiently zoomed in. 
 
