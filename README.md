@@ -18,7 +18,9 @@ GernomeView offers
 * NGS (Next Generation Sequencing) viewer
 * Annotation editor
 
-## Project Samples
+## Project Samples, Demos
+
+[several demo videos are available](DemoVideos.md)
 
 <table>
 <tr>
@@ -27,6 +29,8 @@ GernomeView offers
 <td><img src="img/sample3.jpg" /></td>
 </tr>
 </table>
+
+
 
 
 ## System requirements
@@ -95,9 +99,6 @@ We have several manuals for you
 The source code is available on [http://github.com/genomeview/genomeview](github). .
 
 
-## Demo Videos
-
-[several demo videos are available](DemoVideos.md)
 
 
 # Citing
