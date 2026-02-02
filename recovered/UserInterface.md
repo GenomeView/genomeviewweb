@@ -44,3 +44,7 @@ This panel is used to display additional information when you select something. 
 If the selected feature is a coding sequence, this panel will show the features reading frame structure
 
 
+
+
+
+

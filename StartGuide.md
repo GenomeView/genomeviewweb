@@ -3,6 +3,8 @@
 This quick start guide gives a few example projects you can try
 and suggests some actions you can do with GenomeView.
 
+You can also follow [one of the tutorials](Tutorials.md) instead.
+
 
 * [Install GenomeView](README.md#installation).
 * [Start GenomeView](README.md#start-genomeview)
