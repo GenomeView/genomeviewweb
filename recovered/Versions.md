@@ -67,3 +67,20 @@ Version 1.7.7 of GenomeView has been made publicly available. In this released w
 # 1.7.6
 In release 1.7.6 of GenomeView we have fixed some bugs and added some new features. The two  main features are the more compact GUI resulting in a workable program at lower resolution. Furthermore, we have added dual-screen support. When you have more than one screen attached to your computer, GenomeView will detect this and split the GUI over the two screens. We have added some more configuration options and we have tweaked the GUI in some places.\r\n\r\nTo fix a bug in the physical property module, we have upgraded to ajt-1.22.
 
+# 1.7.5
+
+In this release we have added support for the GENBANK format, we have fixed some bugs and we have upgraded to AJT version1.21.\r\n\r\n<ul>\r\n<li>Support for the genbank file format</li>\r\n<li>Fixed a bug where the parent of features loaded from a GFF files were not set properly</li>\r\n<li>Fixed a bug where loading multiple feature files sometimes crashed the application</li>\r\n<li>Upgraded to AJT-1.21</li>\r\n<li>Fixed bug were the ChromosomeView could not be saved to PNG or JPG</li>\r\n</ul>\r\n
+
+
+# 1.7.4
+We have further improved the internals of GenomeView and we have implemented a number of new features in the GUI.\r\n<ul>\r\n<li>CDS panel identifies exons with in-frame stop and missing splice sites graphically</li>\r\n<li>Any keyword in the description of a feature can be queried at Ensembl and NCBI</li>\r\n<li>CDSView now has viewport to show which part is visible in the StructureView</li>\r\n<li>Features are now properly wrapped in the EMBL parser</li>\r\n<li>GenomeView now remembers the last visited directory</li>\r\n<li>Some improvements to the ChromosomeView</li>\r\n<li>Fixed a number of graphical glitches</li>\r\n</ul>
+
+
+# 1.7.3
+GenomeView 1.7.3 fixes a number of bugs to improve to user experience. We also improved to logging mechanism to make it easier to diagnose bugs in the future. \r\n\r\n<ul>\r\n<li>Progress bars are shown for all data sources</li>\r\n<li>Improved the CDS view</li>\r\n<li>Improved logging</li>\r\n<li>Sponsor logo is by default turned off</li>\r\n<li>Show reply of server when saving to URL</li>\r\n<li>About dialog contains information where log and configuration files are stored</li>\r\n</ul>\r\n<!--break-->\r\n
+
+
+# 1.7.2
+GenomeView 1.7.2 has been released. \r\n\r\nThe main new feature is an extra panel that displays the structure of the last selected CDS. This is useful when editing a gene structure and you want to check what happens with the exons that are outside of your zoom. Besides this new panel we have added additional configuration options including the possibility to configure the colors of the different types of data.\r\n\r\nBesides this new feature we have fixed a number of bugs and did a number of improvements that should make the GUI more user friendly.\r\n<ul>\r\n<li>Changing a strand is now properly registered in the undo-redo stack</li>\r\n<li>Display of some undo-redo items is now more human readable</li>\r\n<li>CDS overview list now completely behaves properly</li>\r\n<li>EMBL parser now correctly save description lines</li>\r\n<li>Undo and redo of structural changes will properly update the phase of an exon</li>\r\n<li>A progress box is displayed for all loading and saving events</li>\r\n</ul>\r\n<!--break-->\r\n
+
+
