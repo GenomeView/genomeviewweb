@@ -1,4 +1,9 @@
+# PileUp Track
+
 The pile up track is used on two zoom levels.
+
+
+## Regular View
 
 The regular view actually shows two tracks: the number of matching reads, 
 and a detailed view of mismatches by nucleotide. 
@@ -14,7 +19,7 @@ SNP view (Red: A; Blue: G; Yellow: C and Green: T):
 <img src="/img/pileup_snpzoom.png"/>
 
 
-
+## Zoomed-out view
 Zoomed out enough, the view switches to a simpler graph 
 that only represents the coverage (same as the yellow plot of 
 the zoomed in view) and doesnt allow for hoovering anymore.
