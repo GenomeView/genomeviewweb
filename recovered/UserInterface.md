@@ -35,7 +35,7 @@ Shows a list of all currently loaded tracks. Toggling the visibility of a track 
 
 Shows a list of all features of a particular type. See the description of the feature track for more details.
 
-## Details on selected item
+#### Details on selected item
 
 This panel is used to display additional information when you select something. Clicking on one of the icons launches a query at that search engine.
 

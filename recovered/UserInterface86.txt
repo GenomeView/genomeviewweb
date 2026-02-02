@@ -1,9 +1,0 @@
-This page introduces the different components of GenomeView and explains a number of naming conventions we use throughout the documentation.
-
-<strong>Components of GenomeView</strong>
-The GenomeView GUI is divided into two columns. The left side is a graphical representation of the data, while on the right side you can find additional information, controllers and options in the form of tables.
-
-[img_assist|nid=246|title=Visual description of the user interface (click to enlarge)|desc=|link=popup|align=none|width=600|height=420]
-
-
-
