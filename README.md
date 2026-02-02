@@ -47,7 +47,7 @@ Recommended system specs:
 
 ## Installation
 
-* Install java 18 or higher if it's not yet installed. 
+* Install java 17 or higher if it's not yet installed. 
     * You can check by running 'java -version' in the commandline.  
     * You can get an installer from http://www.java.com or https://openjdk.org/. 
     * On linux you can `sudo apt install openjdk-17`
@@ -59,7 +59,7 @@ Recommended system specs:
 ## Start GenomeView
 * Start the app, using one of the following
     * double click on the jar file to start the app. This will run with the default memory.
-    * on the commandline with ```java -Xmx4g -jar genomeview.jar```. You can change the '4g' into a bigger number
+    * on the [commandline](CommandLine.md) with ```java -Xmx4g -jar genomeview.jar```. You can change the '4g' into a bigger number
     if you need more memory in GenomeView.
 
 > [!TIP]
