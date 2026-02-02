@@ -257,7 +257,8 @@ If you run into any problems please do contact us on the <a href="mailto:genomev
 # 922
 There are two new visual features in GenomeView: 
 1) Short read alignments contain now visual clues to the read alignment quality. Reads with a high mapping quality are colored dark, while reads with low mapping quality will be lighter.
-<"width="250" src="/img/shadingsnp.PNG" alt="Picture showing shades of mapping quality" />
+
+![Picture showing shades of mapping quality](/img/shadingsnp.PNG)
 
 2) At the top of the short read track there is now also a SNP track shows the frequency of alternative nucleotides for a position. 
 
@@ -564,7 +565,6 @@ The main new feature is an extra panel that displays the structure of the last s
 Besides this new feature we have fixed a number of bugs and did a number of improvements that should make the GUI more user friendly.
 <ul>
 <li>Changing a strand is now properly registered in the undo-redo stack</li>
-<li>Display of some undo-redo items is now more human readable</li>
 <li>CDS overview list now completely behaves properly</li>
 <li>EMBL parser now correctly save description lines</li>
 <li>Undo and redo of structural changes will properly update the phase of an exon</li>
