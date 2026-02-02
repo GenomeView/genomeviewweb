@@ -121,7 +121,7 @@ Thomas Abeel; Thomas Van Parys; Yvan Saeys; James Galagan; Yves Van de Peer
 Nucleic Acids Research 2011; doi: 10.1093/nar/gkr995
 ```
 
-[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/22102585\)
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/22102585)
 
 [Nucleic Acids Research](http://nar.oxfordjournals.org/content/early/2011/11/17/nar.gkr995.long)
 
