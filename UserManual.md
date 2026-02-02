@@ -2,14 +2,32 @@
 
 Welcome to the GenomeView User manual. These pages aim to answer any questions you may have as an end-user.
 
-This documentation is open for anyone to contribute to, just click the edit-button near the top and you can help make this a better resource for everyone. Due to increasing vandalism we were forced to shutdown anonymous editing and account sign-up. If you like an account, please drop a note to support@genomeview.org.
+Below image shows the main user interface.
 
-Feel free to copy documentation from the old manual to here, there are still some pages that need to be transferred and we're happy with any help you can spare. 
+[Overview of the GenomeView GUI](img/dualframe.md)
+
+* On the top there are the various menus. 
+* Below that is a toolbar
+* The main area on the left, bordered red in the image, shows the visualization tracks
+* On the right you see various information: 
+    * track management 
+    * a feature list 
+    * details of the selected features
+    * a gene frame structure
+
+# Interaction
+You interact with the views using 
+* the menus
+* [keyboard shortcuts](KeyboardShortcuts.md)
+* [mouse shortcuts](MouseShortcuts.md)
 
 
-TODO
-
+# The Visualization Tracks
+Typically, a genome is viewed by viewing several data files related to this genome  simultaneously. 
+Each data file has its own data format and it is displayed in its own track in a style fitting the format.
+Therefore if you need a different visualization, you need to 
+[create the proper data file](PrepareReadData.md)
+first and then open it in the viewer.
 
 # FAQ
 Please check the [FAQ wiki](FAQ.md).
-

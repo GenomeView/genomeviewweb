@@ -1,7 +1,7 @@
 # Fasta
 
 The FASTA format is a text based format for representing
-genome sequences. 
+genome sequences. Usually it is used to improve performance using indexing.
 
 A sequence begins with a greater-than character (">") followed by a description of the sequence (all in a single line). The lines immediately following the description line are the sequence representation, with one letter per amino acid or nucleic acid, and are typically no more than 80 characters in length. 
 
