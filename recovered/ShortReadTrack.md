@@ -41,8 +41,39 @@ Green|Read mapped to the forward strand from a sense fragment in a PE library or
 
 
 =====================
+LATEST
+
+Short read are displayed in the Short read track as color boxes that are in some cases connected with pink lines. The pictures belows should give you an idea what the meaning is of the various visual clues.
 
 
+![Short read track, zooming in from left to right](/img/shortread5.PNG)
 
----- latest version
+
+<strong>Default color scheme</strong>
+<table>
+<tr><td><strong>Color</strong></td><td><strong>Description</strong></td></tr>
+<tr><td>Green</td><td>Read mapped to the forward strand from a sense fragment in a PE library or from a single end library</td></tr>
+<tr><td>Blue</td><td>Read mapped to the reverse strand from a sense fragment in a PE library or from a single end library</td></tr>
+<tr><td>Cyan</td><td>Read mapped to the reverse strand from an anti-sense fragment in a PE library</td></tr>
+<tr><td>Orange</td><td>Read mapped to the forward strand from a anti-sense fragment in a PE library</td></tr>
+<tr><td>Yellow</td><td>Mismatch between the read and the reference, the read nucleotide will be shown when zoomed in</td></tr>
+<tr><td>Red</td><td>Gap/deletion in the read</td></tr>
+<tr><td>Black</td><td>Insertion in the read. Hover over them to see inserted bases.</td></tr>
+<tr><td>Gray</td><td>Insertion in the read that is a multiple of 3. Hover over them to see inserted bases.</td>
+<tr><td>Purple/Pink</td><td>Connection between two reads from a paired-end library (thin line), or connection between parts of a single read aligned over a splice junction (thick line). Both the PE connections and splice junctions ones will be shown simultaneously in data sets that have that information.</td>
+</tr>
+</table>
+
+<em>Note that some older alignment software does not include the correct information in the BAM file and that the color scheme may be off for those files. Use common sense when interpreting results!</em>
+
+![Overview of visual clues in the short read track](/img/readdetails.PNG)
+
+<!--
+[img_assist|nid=255|title=Overview of visual clues in the short read track|desc=|link=popup|align=none|width=600|height=384]
+
+[img_assist|nid=258|title=Hovering over reads shows detailed information about the read|desc=|link=popup|align=none|width=600|height=282]
+
+-->
+
+![Hovering over reads shows detailed information about the read](/img/readdetails2.PNG)
 
