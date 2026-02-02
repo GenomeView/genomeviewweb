@@ -8,20 +8,20 @@ Short read are displayed in the Short read track as short green or blue blocks. 
 
 The zoomed out view gives a high level view of the short reads. From a certain amount of reads at overlapping positions, there is a cutoff for performance reasons (the horizontal read line). The cutoff can be changed in the settings.
 
-<img src="/img/short_reads_single_zoomout.png" width="50%"/>
+<img src="/img/short_reads_single_zoomout.png"/>
 
 Zooming in gives of course a more detailed view. Gaps, insertions and deletions are marked (see color coding below) and the reads themselves are colored darker or lighter according to the read quality. The darker the read, the better it matches the reference sequence. The figure below is zoomed in that far that you can read the mismatched nucleotides. 
 
-<img src="/img/short_reads_single_zoomin.png" width="50%"/>
+<img src="/img/short_reads_single_zoomin.png"/>
 
 
 Paired end reads are displayed in a similar way. The pairs are connected by a purple line.
 
 Zoomed out:
-<img src="/img/paired_end_zoomout.png" width="50%"/>
+<img src="/img/paired_end_zoomout.png" />
 
 Zoomed in:
-<img src="/img/paired_end_zoomin.png"  width="50%"/>
+<img src="/img/paired_end_zoomin.png"  />
 
 
 The color key for the default color scheme.
