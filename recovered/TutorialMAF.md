@@ -24,19 +24,19 @@ Make sure you copy this URL somewhere so you dont have to type it in a second.
 
 Next tell GenomeView to load more data using the menu `File / Load data...`. 
 
-![Load data](img/loaddata.png)
+![Load data](/img/loaddata.png)
 
 Select URL from the options. 
 You now see a text field where you will paste the URL above.
 
-![Give the URL](img/maftutorial2.PNG)
+![Give the URL](/img/maftutorial2.PNG)
 
 
 After you paste the URL, press `OK`
 
 GenomeView will prompt you now whether you want to pre-process this file. You want to do that, so press yes.
 
-![Confirm you want to preprocess the MAF file](img/maftutorial3.PNG)
+![Confirm you want to preprocess the MAF file](/img/maftutorial3.PNG)
 
 GenomeView will now ask where the preprocessed files should be stored. Pick a location anywhere on your computer. If you want to load this multiple alignment in the future, you can directly those files from your local computer and you dont have to go through the steps here.
 
