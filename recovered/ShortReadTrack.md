@@ -24,7 +24,7 @@ Zoomed in:
 <img src="/img/paired_end_zoomin.png"  />
 
 
-# Colors
+### Colors
 The colors in the default color scheme are as follows.
 
 |Color|Description|
