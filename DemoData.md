@@ -78,3 +78,34 @@ Download or copy the link of  [D. Melanogaster](https://software.broadinstitute.
 
 
 This basic data set includes the reference sequence for D. melanogaster, as well as gene annotation. A multiple alignment of twelve Drosophila species is included as a MAF file. Furthermore, transcriptome data in the form of paired-end RNA-seq is loaded. 
+
+
+
+## Other places
+
+Here is a list of a couple of places where you can find data that may be of interest. This data will generally require some processing to get it into one of the standard file formats.
+
+### Reference genomes and annotation
+If you would like any of the genomes at UCSC or Ensembl included in the Genome Explorer, <a href=\"mailto:support@genomeview.org\">drop us an e-mail</a>, we have scripts to automate the download and data massaging.
+
+[UCSC Genome Browser downloads](http://hgdownload.cse.ucsc.edu/downloads.html)
+
+[Ensembl downloads](http://ensembl.org/info/data/ftp/index.html)
+
+### Sequencing data sets
+[Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra\) is a repository that stores raw sequencing data from next generation of sequencing platforms.
+
+[EBI Sequence Read Archive](http://www.ebi.ac.uk/ena/about/sra_data_download) is the European cousin of the SRA.
+
+### Whole genome multiple alignments
+
+[UCSC data repository](http://hgdownload.cse.ucsc.edu/downloads.html)  has a large number of whole genome multiple alignments. Look under the heading Multiple Alignments for each species.
+
+Some examples:
+
+[hg19 aligned to 45 vertebrates](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/multiz46way/maf/)  
+[hg18 aligned to 43 vertebrates](http://hgdownload.cse.ucsc.edu/goldenPath/hg18/multiz44way/maf/) 
+[hg18 aligned to 27 vertebrates](http://hgdownload.cse.ucsc.edu/goldenPath/hg18/multiz28way/maf/) 
+[dm3 aligned to 14 other insects](http://hgdownload.cse.ucsc.edu/goldenPath/dm2/multiz15way/)
+
+
