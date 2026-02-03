@@ -1,4 +1,10 @@
-# Loading data
+# Load Data
+
+You can load data from files from your computer, or you can load data from a file that lives on the internet by its URL.
+
+
+
+### Opening a file
 
 You can load your data files in various ways:
 
@@ -16,3 +22,36 @@ You can load preloaded data by:
 * following a link from a GenomeView enabled website
 
 Check [Prepare Data](PrepareData.md) for supported file formats and preparing your data for loading.
+
+
+#### File/Open menu
+
+* Select File/Load menu
+* select "Local File"
+* Pick your file
+
+Note that you can select multiple files at once.
+
+There are two sample data files attached to this page you could use. One file contains genomic sequence, the other one annotation for this sequence. The data represents the mitochondrial DNA of C. elegans (WS200).
+
+
+[![Load Video Data](https://img.youtube.com/vi/Sn3GFQZg1lU/0.jpg)](https://www.youtube.com/embed/Sn3GFQZg1lU)
+
+Click to play video
+
+
+### Loading data from a URL
+[![Load Video Data](https://img.youtube.com/vi/upAqRdTXAqQ/0.jpg)](https://www.youtube.com/embed/upAqRdTXAqQ)
+
+Click to play video
+
+
+# File formats
+GenomeView supports a whole list of file formats. See the <a href="/content/data-formats">data format</a> page for a complete list. GenomeView tries to limit the listed files to the supported data formats. However, there are many extensions in use and your files may be hidden. In that case, select "all files" from the drop-down list.
+
+Some file formats can/need to be preprocessed for optimal performance.
+* <a href="/content/preparing-fasta-files">Preparing fasta files
+* <a href="/content/preparing-short-read-alignments">Preparing read mapping (SAM/BAM) files
+* <a href="/content/preparing-pileup">Preparing pile-up (read coverage plots)
+
+
