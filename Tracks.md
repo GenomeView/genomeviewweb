@@ -17,5 +17,13 @@ You can reorder the tracks by dragging them up and down in this table, hide them
 
 
 There are a number of tracks, each tightly linked with some data type.
+Click on the track type to get more information.
 
-
+|track type|short description|typical file|
+|---|---|
+|[Gene Structure](GeneStructureTrack.md)|cursor location, zoom level, nucleotides|fasta|
+|[Feature](FeatureTrack.md)|annotations|gff, bed|
+|Structure|Unknown|
+|[Wiggle](WiggleTrack.md)|Unknown|
+|[PileUp](PileupTrack.md)|?|
+|[Multiple Alignment](MultipleAlignmentTrack.md)|?|
