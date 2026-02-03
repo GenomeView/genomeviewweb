@@ -41,7 +41,7 @@ Note that you can select multiple files at once.
 Click to play video
 
 
-<a href="https://www.youtube.com/embed/Sn3GFQZg1lU">
+<a href="https://www.youtube.com/embed/Sn3GFQZg1lU" style="position:absolute;">
   <img  src="https://img.youtube.com/vi/Sn3GFQZg1lU/0.jpg" style="z-index:1;/>
   <img  src="/img/play.png" style="z-index:3;" />
 </a>
