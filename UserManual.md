@@ -2,6 +2,24 @@
 
 Welcome to the GenomeView User manual. These pages aim to answer any questions you may have as an end-user.
 
+## Introduction
+To gain insignt into genomes, they are analysed
+by various methods, and the analysis results need to be visualized
+to get more insights.
+
+GenomeViewer unifies the visualization step,
+by integrating various analysis results into a unified visualization,
+and by providing means to add annotations.
+
+GenomeViewer can handle many of the existing analysis analysis formats,
+and provides standard visualization tools for each of them.
+
+Usually analysis is done with external tools. We provide
+recommendations, links and instructions on how to use these tools.
+
+
+## The User Interface
+
 Below image shows the main user interface.
 
 [Overview of the GenomeView GUI](img/dualframe.md)
