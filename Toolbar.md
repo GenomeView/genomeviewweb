@@ -6,7 +6,7 @@
 The toolbar consists of a number of icons and a text field. 
 From left to right:
 
-|toolbar item|
+|toolbar item|action|
 |---|---|
 |counterclockwise arrow|undo?|
 |clockwise arrow|redo?|
