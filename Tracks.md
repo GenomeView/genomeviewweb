@@ -25,8 +25,12 @@ Click on the track type to get more information.
 
 |track type|short description|typical file|
 |---|---|---|
-|[Gene Structure](GeneStructureTrack.md)|cursor location, zoom level, nucleotides|fasta|
-|[Feature](FeatureTrack.md)|annotations|gff, bed|
+|[Gene Structure](GeneStructureTrack.md)|cursor location, zoom level, nucleotides|[fasta](https://en.wikipedia.org/wiki/FASTA_format)|
+|[Feature](FeatureTrack.md)|annotations|gff3, bed|
+|Read Alignment|short read alignment|[bam]()https://en.wikipedia.org/wiki/BAM_(file_format), sam|
+|[Pile-Up](PileupTrack.md)|shows coverage, may include SNP|msf, pup, pileup, tdf|
 |[Wiggle](WiggleTrack.md)|Unknown|wig, bed|
-|[Pile-Up](PileupTrack.md)|shows coverage, may include SNP|msf, pup, pileup,tdf|
 |[Multiple Alignment](MultipleAlignmentTrack.md)|maf|
+
+
+Check [our wiki for an in-depth overview of the types](PrepareLoadData.md)

@@ -8,7 +8,7 @@ The file menu deals with loading and saving tracks and general configuration
 
 |File Menu Item|Use|
 |---|---|
-|Load Data|Open data and add a track. Can be either URL or local file|
+|[Load Data](LoadData.md)|Open data and add a track. Can be either URL or local file|
 |Show Data Explorer|Similar to Load Data but shows also recently used files|
 |Save Session|Saves a GenomeView Session file|
 |Load Session|Loads a GenomeView Session file|
