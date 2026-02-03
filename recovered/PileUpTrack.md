@@ -4,9 +4,9 @@ The pile up track can consists of to information parts. The first one, the cover
 
 Typically coverage-only data files are TDF files, while coverage+SNP files are prepared using samtools pileup. [More information on preparing pile-ups](PreparePileup.md)
 
-![Pile up track overview](img/pileup.PNG)
+![Pile up track overview](/img/pileup.PNG)
 
-![Detailed description of component of the pile up track](img/pileup2.PNG)
+![Detailed description of component of the pile up track](/img/pileup2.PNG)
 
 
 =================== OLDER VERSION
