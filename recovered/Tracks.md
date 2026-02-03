@@ -16,7 +16,7 @@ You can reorder the tracks by dragging them up and down in this table, hide them
 ## Gene structure track
 
 <figure>
-    <img src="/img/structure_track_noCDS.png />
+    <img src="/img/structure_track_noCDS.png" />
     <figcaption>Gene Structure Track</figcaption>
 </figure>
     
