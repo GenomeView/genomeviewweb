@@ -33,7 +33,7 @@ Check [Prepare Data](PrepareData.md) for supported file formats and preparing yo
 
 Note that you can select multiple files at once.
 
-[Here is some demo data.](DemoData.md)
+[Here you can download some demo data.](DemoData.md)
 
 
 [![Load Video Data](https://img.youtube.com/vi/Sn3GFQZg1lU/0.jpg)](https://www.youtube.com/embed/Sn3GFQZg1lU)
