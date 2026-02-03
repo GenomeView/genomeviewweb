@@ -41,23 +41,24 @@ Note that you can select multiple files at once.
 Click to play video
 
 <style>
-.video { position: relative; }
-
-.video a {
-   position: absolute;
-   display: block;
-   background: url("/img/play.png");
-   height: 40px;
-   width: 40px;
-   top: 20px;
-   left: 20px;
+.youtube {
+    position: relative;
+    display: inline-block;
+}
+.youtube:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background: transparent url("/img/play.png") center center no-repeat;
 }
 </style>
 
-<div class="video">
-    <img src="https://img.youtube.com/vi/Sn3GFQZg1lU/0.jpg" />
-    <a href="https://www.youtube.com/embed/Sn3GFQZg1lU">link to video</a>
-</div>
+<a class="youtube" href="http://youtube.com/watch?v=Sn3GFQZg1lU">
+    <img src="http://i3.ytimg.com/vi/Sn3GFQZg1lU/default.jpg" alt="{ video title here }" />
+</a>
+
 
 ### Loading data from a URL
 * Select menu `File/Load Data` . <br>
