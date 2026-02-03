@@ -40,25 +40,6 @@ Note that you can select multiple files at once.
 
 Click to play video
 
-<style>
-.youtube {
-    position: relative;
-    display: inline-block;
-}
-.youtube:before {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    z-index: 10;
-    background: transparent url("/img/play.png") center center no-repeat;
-}
-</style>
-
-<a class="youtube" href="http://youtube.com/watch?v=Sn3GFQZg1lU">
-    <img src="http://i3.ytimg.com/vi/Sn3GFQZg1lU/default.jpg" alt="{ video title here }" />
-</a>
-
 
 ### Loading data from a URL
 * Select menu `File/Load Data` . <br>
