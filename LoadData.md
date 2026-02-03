@@ -42,7 +42,7 @@ Click to play video
 
 
 ### Loading data from a URL
-* Select menu `File/Load Data` . 
+* Select menu `File/Load Data` . <br>
      <img src="img/loaddata.png" width="30%"/>
 * select "Open URL"
 * Paste your URL into the panel
