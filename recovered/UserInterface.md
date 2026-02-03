@@ -3,11 +3,21 @@
 
 This page introduces the different components of GenomeView and explains a number of naming conventions we use throughout the documentation.
 
-### Components of GenomeView
-The GenomeView GUI is divided into two columns. The left side is a graphical representation of the data, while on the right side you can find additional information, controllers and options in the form of tables.
+## Components of GenomeView
+
+A typical GenomeView window looks like this:
 
 <img src="/img/dualframe.png"/>
 <b>Visual description of the user interface</b>
+
+* At the top there are the [menu](Menu.md) and [toolbar](Toolbar.md). The current chromosome is selected in the toolbar.
+* On the left side (boxed red in the image) are the [visualization tracks](Tracks.md). Each track is a graphical representation of some data about the currently selected chromosome.
+* On the right side (marked blue in the image) you can find the information frame with additional information, controllers and options in the form of tables.
+
+
+
+
+
 
 
 ======= OLDER VERSION
