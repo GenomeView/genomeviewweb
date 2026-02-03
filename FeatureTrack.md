@@ -33,7 +33,7 @@ track:forceFeatureLabels=true
 ## Feature List
 In the main GUI, there is a Feature List shown to the right of the Visualization Tracks.
 
-<img src="/img/featurelist.png" width="50%"/>
+<img src="/img/featurelist.png" width="30%"/>
 <b>Feature List</b>
 
 You can search for and select features 
