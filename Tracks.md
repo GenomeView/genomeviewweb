@@ -26,11 +26,11 @@ Click on the track type to get more information.
 |track type|short description|Jannot Type|typical file|
 |---|---|---|---|
 |[Gene Structure](GeneStructureTrack.md)|cursor location, zoom level, nucleotides|ReadGroup?|[fasta](https://en.wikipedia.org/wiki/FASTA_format)|
-|[Feature](FeatureTrack.md)|annotations|MemoryFeatureAnnotation,GFFWrapper,BEDWrapper|gff3, bed|
+|[Feature](FeatureTrack.md)|annotations|MemoryFeatureAnnotation, GFFWrapper, BEDWrapper|gff3, bed|
 |Read Alignment|short read alignment|ReadGroup|[bam]()https://en.wikipedia.org/wiki/BAM_(file_format), sam|
-|[Pile-Up](PileupTrack.md)|shows coverage, may include SNP|PileupWrapper,SWigWrapper,TDFData,BigWigData|msf, pup, pileup, tdf|
+|[Pile-Up](PileupTrack.md)|shows coverage, may include SNP|PileupWrapper, SWigWrapper,TDFData, BigWigData|msf, pup, pileup, tdf|
 |[Wiggle](WiggleTrack.md)|Unknown|Graph|wig, bigWig, bed|
-|[Multiple Alignment](MultipleAlignmentTrack.md)|AlignmentAnnotation,AbstractMAFMultipleAlignment|maf|
+|[Multiple Alignment](MultipleAlignmentTrack.md)|AlignmentAnnotation, AbstractMAFMultipleAlignment|maf|
 
 
 Check [our wiki for an in-depth overview of the types](PrepareLoadData.md)
