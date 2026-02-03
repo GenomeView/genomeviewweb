@@ -10,7 +10,7 @@ On the right side of the application window there is an overview of all tracks t
 
 You can reorder the tracks by dragging them up and down in this table, hide them by clicking the eye icon or remove them with the garbage bin icon.
 
-<img src="/img/track_list.png" width="30%" />
+<img src="/img/track_list.png" width="50%" />
 <b>Track list pane</b>
 
 
