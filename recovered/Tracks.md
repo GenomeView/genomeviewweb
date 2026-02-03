@@ -7,13 +7,15 @@ When loading new data, a new track is added.
 
 On the right side of the application window there is an overview of all tracks that are currently available. 
 
-<img src="/img/track_list.png" width="30%" align="right"/>
+<img src="/img/track_list.png" width="30%"/>
+Figure. Track overview pane.
 
 You can reorder the tracks by dragging them up and down in this table, hide them by clicking the eye icon or remove them with the garbage bin icon.
 
 ## Gene structure track
 
 <img src="/img/structure_track_noCDS.png"/>
+Figure. Gene structure track.
 
 This tracks shows a number of things, some of which only are visible when you are sufficiently zoomed in. 
 Things to know about this track:
