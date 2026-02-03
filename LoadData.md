@@ -33,7 +33,7 @@ Check [Prepare Data](PrepareData.md) for supported file formats and preparing yo
 
 Note that you can select multiple files at once.
 
-There are two sample data files attached to this page you could use. One file contains genomic sequence, the other one annotation for this sequence. The data represents the mitochondrial DNA of C. elegans (WS200).
+[Here is some demo data.](DemoData.md)
 
 
 [![Load Video Data](https://img.youtube.com/vi/Sn3GFQZg1lU/0.jpg)](https://www.youtube.com/embed/Sn3GFQZg1lU)
@@ -56,7 +56,7 @@ Click to play video
 
 
 # File formats
-GenomeView supports a whole list of file formats. 
+GenomeView supports a large number of file formats. 
 See [this page](PrepareLoadData.md) for a complete list. 
 
 GenomeView tries to limit the listed files to the supported data formats. However, there are many extensions in use and your files may be hidden. In that case, select "all files" from the drop-down list.
