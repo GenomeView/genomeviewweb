@@ -24,12 +24,12 @@ Below image shows the main user interface.
 
 ![Overview of the GenomeView GUI](img/dualframe.png)
 
-* On the top there are the various menus. 
-* Below that is a toolbar
-* The main area on the left, bordered red in the image, shows the visualization tracks
+* On the top there are the various [menus](Menu.md). 
+* Below that is a [toolbar](Toolbar.md)
+* The main area on the left, bordered red in the image, are the [visualization tracks](Tracks.md)
 * On the right you see various information: 
-    * track management 
-    * a feature list 
+    * [track management](Tracks.md#Track-List) 
+    * a [feature list](FeatureTrack.md#Feature-List) 
     * details of the selected features
     * a gene frame structure
 
