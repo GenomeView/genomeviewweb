@@ -26,8 +26,9 @@ Check [Prepare Data](PrepareData.md) for supported file formats and preparing yo
 
 #### File/Open menu
 
-* Select File/Load menu. <img src="img/loaddata.png" width="30%"/>
-* select "Local File"
+* Select menu `File/Load Data` . 
+     <img src="img/loaddata.png" width="30%"/>
+* select "Open local file"
 * Pick your file
 
 Note that you can select multiple files at once.
@@ -41,17 +42,28 @@ Click to play video
 
 
 ### Loading data from a URL
+* Select menu `File/Load Data` . 
+     <img src="img/loaddata.png" width="30%"/>
+* select "Open URL"
+* Paste your URL into the panel
+* click OK
+
+
+
 [![Load Video Data](https://img.youtube.com/vi/upAqRdTXAqQ/0.jpg)](https://www.youtube.com/embed/upAqRdTXAqQ)
 
 Click to play video
 
 
 # File formats
-GenomeView supports a whole list of file formats. See the <a href="/content/data-formats">data format</a> page for a complete list. GenomeView tries to limit the listed files to the supported data formats. However, there are many extensions in use and your files may be hidden. In that case, select "all files" from the drop-down list.
+GenomeView supports a whole list of file formats. 
+See [this page](PrepareLoadData.md) for a complete list. 
 
+GenomeView tries to limit the listed files to the supported data formats. However, there are many extensions in use and your files may be hidden. In that case, select "all files" from the drop-down list.
+
+<!--
 Some file formats can/need to be preprocessed for optimal performance.
 * <a href="/content/preparing-fasta-files">Preparing fasta files
 * <a href="/content/preparing-short-read-alignments">Preparing read mapping (SAM/BAM) files
 * <a href="/content/preparing-pileup">Preparing pile-up (read coverage plots)
-
-
+-->
