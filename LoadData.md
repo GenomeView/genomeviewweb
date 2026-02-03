@@ -10,8 +10,8 @@ You can load your data files in various ways:
 
 * by selecting "work with my data" in the Genome Explorer
 * by dragging them onto GenomeView
-* by [selecting the 'File' menu and then 'Load data...'](#file-open-menu)
-* by [pressing CTRL+O](#file-open-menu)
+* by [selecting the 'File' menu and then 'Load data...'](#File-Open-menu)
+* by [pressing CTRL+O](#File-Open-menu)
 * by specifying them as argument on the command-line
 * by loading a session file
 
