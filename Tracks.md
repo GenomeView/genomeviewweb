@@ -24,6 +24,6 @@ Click on the track type to get more information.
 |[Gene Structure](GeneStructureTrack.md)|cursor location, zoom level, nucleotides|fasta|
 |[Feature](FeatureTrack.md)|annotations|gff, bed|
 |Structure|Unknown|
-|[Wiggle](WiggleTrack.md)|Unknown|
-|[PileUp](PileupTrack.md)|?|
+|[Wiggle](WiggleTrack.md)|Unknown|wig, bed|
+|[PileUp](PileupTrack.md)|shows coverage, may include SNP|
 |[Multiple Alignment](MultipleAlignmentTrack.md)|?|

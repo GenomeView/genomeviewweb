@@ -1,6 +1,6 @@
 # PileUp Track
 
-The pile up track can consists of to information parts. The first one, the coverage plot, is always present, the second, the SNP plot, is only displayed if the loaded data set has the required information.
+The pile up track can consists of to information parts. The first one, the coverage plot, is always present, the second, the SNP plot (Single-nucleotide polymorphism), is only displayed if the loaded data set has the required information.
 
 Typically coverage-only data files are TDF files, while coverage+SNP files are prepared using samtools pileup. [More information on preparing pile-ups](PreparePileup.md)
 
