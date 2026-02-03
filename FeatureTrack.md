@@ -1,6 +1,10 @@
 # Feature Track
 
-The feature track can display a multitude of annotation information, supplied as GFF or BED files. Features like CDS, RNA, SNP, etc... are displayed as rectangles in different colors. A triangle on one side can indicate the strand. When zoomed in enough, feature names are displayed when available.
+```
+GFF, BED
+```
+
+The feature track can display a multitude of annotation information, supplied as GFF or BED files. Features like CDS, RNA, SNP, etc. are displayed as rectangles in different colors. A triangle on one side can indicate the strand. When zoomed in enough, feature names are displayed when available.
 
 <img src="/img/feature_track_cds.png"/>
 <b>Feature Track</b>
