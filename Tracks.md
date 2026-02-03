@@ -20,10 +20,10 @@ There are a number of tracks, each tightly linked with some data type.
 Click on the track type to get more information.
 
 |track type|short description|typical file|
-|---|---|
+|---|---|---|
 |[Gene Structure](GeneStructureTrack.md)|cursor location, zoom level, nucleotides|fasta|
 |[Feature](FeatureTrack.md)|annotations|gff, bed|
-|Structure|Unknown|
+|Structure|Unknown|?|
 |[Wiggle](WiggleTrack.md)|Unknown|wig, bed|
-|[PileUp](PileupTrack.md)|shows coverage, may include SNP|
-|[Multiple Alignment](MultipleAlignmentTrack.md)|?|
+|[Pile-Up](PileupTrack.md)|shows coverage, may include SNP|msf, pup, pileup,tdf|
+|[Multiple Alignment](MultipleAlignmentTrack.md)|maf|

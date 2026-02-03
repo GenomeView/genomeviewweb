@@ -1,4 +1,7 @@
 # PileUp Track
+```
+msf, pup, pileup, tdf
+```
 
 The pile up track can consists of to information parts. The first one, the coverage plot, is always present, the second, the SNP plot (Single-nucleotide polymorphism), is only displayed if the loaded data set has the required information.
 
@@ -8,6 +11,7 @@ Typically coverage-only data files are TDF files, while coverage+SNP files are p
 
 ![Detailed description of component of the pile up track](/img/pileup2.PNG)
 
+[The ]file format details](https://en.wikipedia.org/wiki/Pileup_format)
 
 =================== OLDER VERSION
 The pile up track is used on two zoom levels.

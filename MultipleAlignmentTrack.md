@@ -1,5 +1,9 @@
 # Multiple Alignment Track
 
+```
+maf
+```
+
 ## Multi-fasta/ClustalW multiple alignment
 
 Multi-fasta data can be displayed on three zoom levels.
