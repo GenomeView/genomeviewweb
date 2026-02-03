@@ -41,6 +41,13 @@ Note that you can select multiple files at once.
 Click to play video
 
 
+<a href="https://www.youtube.com/embed/Sn3GFQZg1lU">
+  <img  src="https://img.youtube.com/vi/Sn3GFQZg1lU/0.jpg" />
+  <img  src="/img/play.png" alt="" />
+</a>
+    
+    
+
 ### Loading data from a URL
 * Select menu `File/Load Data` . <br>
      <img src="img/loaddata.png" width="30%"/>
