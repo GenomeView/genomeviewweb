@@ -10,7 +10,10 @@ On the right side of the application window there is an overview of all tracks t
 
 You can reorder the tracks by dragging them up and down in this table, hide them by clicking the eye icon or remove them with the garbage bin icon.
 
-<img src="/img/track_list.png" width="30%" />
+<figure>
+	<img src="/img/track_list.png" width="30%" />
+    <figcaption>Track list pane</figcaption>
+</figure>
 
 
 ## Gene structure track
@@ -20,7 +23,6 @@ You can reorder the tracks by dragging them up and down in this table, hide them
     <figcaption>Gene Structure Track</figcaption>
 </figure>
     
-<img src="/img/structure_track_noCDS.png" title="Gene Structure Track"/>
 
 This tracks shows a number of things, some of which only are visible when you are sufficiently zoomed in. 
 Things to know about this track:
