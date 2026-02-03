@@ -15,6 +15,11 @@ You can reorder the tracks by dragging them up and down in this table, hide them
 
 ## Gene structure track
 
+<figure>
+    <img src="/img/structure_track_noCDS.png />
+    <figcaption>Gene Structure Track</figcaption>
+</figure>
+    
 <img src="/img/structure_track_noCDS.png" title="Gene Structure Track"/>
 
 This tracks shows a number of things, some of which only are visible when you are sufficiently zoomed in. 
