@@ -5,9 +5,9 @@ A track typically holds on particular type of data or one particular data set.
 There can be multiple tracks of each type.
 When loading new data, a new track is added.
 
-On the right side of the window there is an overview of all tracks that are currently available. 
+On the right side of the application window there is an overview of all tracks that are currently available. 
 
-<img src="/img/track_list.png" />
+<img src="/img/track_list.png" width="30%" align="right"/>
 
 You can reorder the tracks by dragging them up and down in this table, hide them by clicking the eye icon or remove them with the garbage bin icon.
 
