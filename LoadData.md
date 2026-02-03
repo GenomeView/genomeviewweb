@@ -26,7 +26,7 @@ Check [Prepare Data](PrepareData.md) for supported file formats and preparing yo
 
 #### File/Open menu
 
-* Select File/Load menu
+* Select File/Load menu. <img src="img/loaddata.png" width="30%"/>
 * select "Local File"
 * Pick your file
 
