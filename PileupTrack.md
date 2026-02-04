@@ -29,23 +29,32 @@ The pile up track is used on two zoom levels.
 
 ### Regular View
 
-The regular view actually shows two tracks: the number of matching reads, 
-and a detailed view of mismatches by nucleotide. 
+The regular view actually shows two tracks: 
+1. the standard pileup graph with the number of matching reads, 
+2. an SNP view with a detailed view of mismatches by nucleotide. 
 
-#### Number of matching reads
+#### Pile-up
+This standard plot shows the number of matching reads with colors
 |Color|Meaning|
 |---|---|
-|green|the number of reads on the forward strand|
-|blue| the number of reads on the reverse strand|
+|green|the number of matching reads on the forward strand|
+|blue| the number of matching reads on the reverse strand|
 |yellow|the sum of both.|
 
 Hovering over a position shows you the exact number of matches, mismatches and coverage.
 
 <img src="/img/pileup_zoomin.png"/>
 
-#### Mismatches by nucleotide
+#### SNP view
+Mismatches by nucleotide
+This shows the SNP view using these colors
 
-This shows the SNP view (Red: A; Blue: G; Yellow: C and Green: T):
+|Nucleotide|Color|
+|---|---|
+|A|Red|
+|G|Blue
+|C|Yellow|
+|T|Green|
 
 <img src="/img/pileup_snpzoom.png"/>
 
