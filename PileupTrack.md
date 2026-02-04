@@ -53,7 +53,7 @@ This shows the SNP view (Red: A; Blue: G; Yellow: C and Green: T):
 ### Zoomed-out view
 Zoomed out enough, the view switches to a simpler graph 
 that only represents the coverage (same as the yellow plot of 
-the zoomed in view) and doesnt allow for hoovering anymore.
+the zoomed in view) and doesn't allow for hovering anymore.
 
 <img src="/img/pileup_zoomout.png"/>
 
