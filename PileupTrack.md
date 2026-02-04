@@ -42,6 +42,7 @@ and a detailed view of mismatches by nucleotide.
 Hovering over a position shows you the exact number of matches, mismatches and coverage.
 
 <img src="/img/pileup_zoomin.png"/>
+
 #### Mismatches by nucleotide
 
 This shows the SNP view (Red: A; Blue: G; Yellow: C and Green: T):
