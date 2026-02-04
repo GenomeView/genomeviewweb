@@ -1,4 +1,6 @@
-# Preparing annotation
+# Preparing GFF3/BED
+
+Annotation data can be placed in GFF3 or BED files. 
 
 Large feature files need to be indexed before you can use them properly in GenomeView.
 

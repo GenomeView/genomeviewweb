@@ -1,4 +1,6 @@
-# Preparing whole genome alignments
+# Preparing MAF
+
+The best way to create genome alignment data is with a MAF file.
 
 ##  Creating a multiple alignment
 

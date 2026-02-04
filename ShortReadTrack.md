@@ -1,5 +1,7 @@
 # Short Read Track
 
+Recommended File: [BAM](PrepareBAM.md)
+
 In Short Read sequencing, a genome is broken into small but overlapping fragments for analysis and stitched together afterwards.
 
 Short read are displayed in the Short read track as color boxes that are in some cases connected with pink lines. The pictures belows should give you an idea what the meaning is of the various visual clues.

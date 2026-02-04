@@ -1,4 +1,4 @@
-# Preparing read data
+# Preparing BAM
 
 The best format to present short read alignments to GenomeView is the SAM/BAM format. You need to have your read data in this format and it has to be aligned to a reference genome. 
 

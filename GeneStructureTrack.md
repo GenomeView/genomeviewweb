@@ -1,12 +1,11 @@
 # Gene structure track
 
-```
-fasta
-```
+Recommended File: [Fasta](PrepareFASTA.md)
+
 
 <img src="/img/structure_track_noCDS.png" />
 <b>Gene Structure Track</b>
-    
+
 
 ![Gene Structure Track](/img/genestructuretrack2.PNG)
 

@@ -1,8 +1,6 @@
 # Multiple Alignment Track
 
-```
-maf
-```
+Recommended File: [MAF](PrepareMAF.md)
 
 ## Multi-fasta/ClustalW multiple alignment
 
