@@ -1,6 +1,7 @@
 # Gene structure track
 
 Recommended File: [Fasta](PrepareFASTA.md)
+[Configuration Options](Configure.md#structure-view)
 
 
 <img src="/img/structure_track_noCDS.png" />

@@ -37,8 +37,7 @@ The default is that a is red, t green, g blue, c yellow, n black.
 
 
 ## Short Reads
-
-
+This configures the [ShortReadTrack](ShortReadTrack.md).
 * height of coverage graph. what is this, number of lines available in the plot?
 * Heigth SNP track. Is a "SNP track" a short read?
 * Minimum coverage for SNPs to be shown. 
@@ -56,7 +55,7 @@ The default is that a is red, t green, g blue, c yellow, n black.
 * Missing mate
 * Splicing color
 
-## File Up Tracks
+## Pile Up Tracks
 
 * cross connect the track scaling
 * Should all tracks use dynamic range?
@@ -70,7 +69,7 @@ The default is that a is red, t green, g blue, c yellow, n black.
 * Max visible range of comparative annotation: N
 * Display extended names
 
-# Miscellaneous
+## Miscellaneous
 * Max zoom-out size
 * Enable dual-screen mode
 * Allow only one instance of GenomeView
@@ -80,3 +79,8 @@ The default is that a is red, t green, g blue, c yellow, n black.
 * disable url caching
 * reset configuration
 * empty cache
+
+
+
+# Edit the config file
+You can also [edit the config file directly](ConfigurationOptions.md).

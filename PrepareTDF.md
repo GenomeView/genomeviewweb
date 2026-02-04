@@ -1,4 +1,4 @@
-# Preparing value data
+# Preparing TDF
 
 There are three formats supported for value/continuous data. The TDF format is by far the most appropriate and the other formats should be considered legacy support.
 

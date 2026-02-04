@@ -1,11 +1,14 @@
 # PileUp Track
-```
-msf, pup, pileup, tdf
-```
+
+Recommended File: [tdf](PrepareTDF.md)
+
+Alternative Files: msf, pup, pileup
+
+[Configuration Options](Configure.md#pile-up-tracks)
 
 The pile up track can consists of to information parts. The first one, the coverage plot, is always present, the second, the SNP plot (Single-nucleotide polymorphism), is only displayed if the loaded data set has the required information.
 
-Typically coverage-only data files are TDF files, while coverage+SNP files are prepared using samtools pileup. [More information on preparing pile-ups](PreparePileup.md)
+Typically coverage-only data files are TDF files, while coverage+SNP files are prepared using samtools pileup. [More information on preparing pile-ups](PrepareTDF.md)
 
 ![Pile up track overview](/img/pileup.PNG)
 

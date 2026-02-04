@@ -2,6 +2,9 @@
 
 Recommended File: [gff, bed](PrepareAnnotation.md)
 
+[Configuration Options](Configure.md#feature-track)
+
+
 The feature track can display a multitude of annotation information. Features like CDS, RNA, SNP, etc. are displayed as rectangles in different colors. A triangle on one side can indicate the strand. When zoomed in enough, feature names are displayed when available.
 
 <img src="/img/feature_track_cds.png"/>
