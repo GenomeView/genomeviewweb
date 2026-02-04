@@ -21,6 +21,9 @@ Options for use on the command line or with website integration.
 | `--position <position>`|Zoom to the supplied position on start-up. You need to use this in conjunction with the `--url` or `--file option`. First that file or url will be loaded and then GenomeView will zoom to the supplied position. The position is in the format `<entry>:<start position>:<end position>` The entry part can be omitted in which case it becomes `<start position>:<end position>`| 
 | remaining arguments| Load all remaining files and URLs specified on the command line|
 
+Additionally, there are the [standard java options](https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html) like -Xmx to get extra memory.
+
+
 ## Examples
 
 * Start up with 10GB memory
