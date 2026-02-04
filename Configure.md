@@ -12,7 +12,7 @@ to be changed. The documentation of the values currently is only in the
 [example configuration](https://github.com/GenomeView/genomeview/blob/master/src/main/resources/conf/default.conf) file.
 
 ## Structure View
-In this view you can enable or disable the way the viewer renders the genomes.
+This configures the [Structure Track](GeneStructureTrack,md).
 
 * Show only Methionine as start codon
 * Show structure track on start-up
@@ -28,7 +28,7 @@ In this tab you can adjust the colors of the various nucleotides.
 The default is that a is red, t green, g blue, c yellow, n black. 
 
 ## Feature Track
-
+This configures the [FeatureTrack](FeatureTrack.md)
 * Force labels on features
 * Colors of feature types: 
    * color for NORMAL
@@ -56,7 +56,7 @@ This configures the [ShortReadTrack](ShortReadTrack.md).
 * Splicing color
 
 ## Pile Up Tracks
-
+This configures the [PileUp track](PileUpTrack.md)
 * cross connect the track scaling
 * Should all tracks use dynamic range?
 * Should all tracks be log scaled
