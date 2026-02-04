@@ -17,7 +17,11 @@ On the right side of the application window there is an overview of all tracks t
 <img src="/img/track_list.png" width="50%" />
 <b>Typical track list pane</b>
 
-You can reorder the tracks by dragging them up and down in this table, hide them by clicking the eye icon or remove them with the garbage bin icon.
+You can 
+* reorder the tracks by dragging them up and down in this table
+* hide a track by clicking the eye icon 
+* remove a track with the garbage bin icon.
+
 
 ### Data Types
 There are a number of tracks, depending on the type of incoming data.

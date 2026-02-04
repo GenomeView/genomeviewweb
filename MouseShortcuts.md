@@ -12,13 +12,34 @@
 |Ctrl+scroll wheel|Zoom in and out|
 |Drag|move left and right|
 |Shift-drag|select sequence|
+|alt-double click|toggle between full screen and windowed|
 
 ## Structure panel specific actions
+These actions apply on mouse actions inside the [Gene Structure Track](GeneStructureTrack.md)
 
 |action|effect|
 |---|---|
 |Dragging the edge of an exon|Will modify the coordinate of the location you dragged|
 |Dragging (not the edge of an exon)|Will select the region over which you dragged the mouse|
+|Dragging the navigator (the blue box with circular extensions)|move left-right over the sequence.|
+|Dragging the navigator left or right edge|enlarge/shrink the view in that particular direction. The number indicates the size of the currently visible region.|
+
+## feature Panel specific actions
+These actions apply on mouse actions inside the [Feature Track](FeatureTrack.md)
+
+|action|effect|
+|---|---|
+|Click on Feature|Show details|
+|Double click on Feature|jump to ??|
+
+
+## Feature List panel specific actions
+These actions apply on mouse actions inside the [Feature List](FeatureTrack.md#feature-list)
+
+|action|effect|
+|---|---|
+|Click on Feature|jump to position of the feature|
+
 
 ## Evidence panel specific actions
 
