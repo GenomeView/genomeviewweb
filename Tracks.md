@@ -33,4 +33,4 @@ Click on the track type to get more information on how this type works.
 |[Multiple Alignment](MultipleAlignmentTrack.md)|alignment file|AlignmentAnnotation, AbstractMAFMultipleAlignment|[maf](PrepareMAF.md)|
 
 
-Check [our wiki on all supported file types and conversion recommendations](PrepareLoadData.md)
+Check [our wiki on all supported file types and conversion recommendations](DataTypes.md)

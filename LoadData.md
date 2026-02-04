@@ -57,7 +57,7 @@ Click to play video
 
 # File formats
 GenomeView supports a large number of file formats. 
-See [this page](PrepareLoadData.md) for a complete list. 
+See [this page](DataTypes.md) for a complete list. 
 
 GenomeView tries to limit the listed files to the supported data formats. However, there are many extensions in use and your files may be hidden. In that case, select "all files" from the drop-down list.
 

@@ -1,6 +1,6 @@
 # Feature Track
 
-Recommended File: [gff, bed](PrepareAnnotation.md)
+Recommended File: [gff, bed](PrepareGFF.md)
 
 [Configuration Options](Configure.md#feature-track)
 

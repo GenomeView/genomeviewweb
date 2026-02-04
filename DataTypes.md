@@ -1,6 +1,7 @@
-# Preparing Data
+# Data Types
 
-Before you load your data, you may want to make sure you're using a supported format from the list below. Generally, GenomeView will notify you if it doesn't understand your data. 
+Before you load your data, you may want to make sure you're using a supported format from the list below. The data type also determines the type of [Track](Track.md) you will get.
+Generally, GenomeView will notify you if it doesn't understand your data. 
 
 
 ## Data preparation recipe

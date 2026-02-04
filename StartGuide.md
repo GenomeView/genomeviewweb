@@ -10,7 +10,7 @@ You can also follow [one of the tutorials](Tutorials.md) instead.
 * [Start GenomeView](README.md#start-genomeview)
 * Get your data ready: either
     * Get a [Demo Dataset](DemoData.md).
-    * [Prepare your data](PrepareLoadData.md)
+    * [Prepare your data](DataTypes.md)
 * [Load your Data](LoadData.md)
 * Navigation and Keyboard short-cuts
 * Visualizations
