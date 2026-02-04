@@ -12,17 +12,15 @@ Multi-fasta data can be displayed on three zoom levels.
 
 <img src="/img/ma.png"/>
 
-## MAF formatted multiple alignment
 
-[Details on the MAF format](https://cgwb.nci.nih.gov/goldenPath/help/maf.html)
-
-Demo video showing the multiple alignment track.
+Te following video shows the multiple alignment track in use.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iHvHLUNjBkU/0.jpg)](https://www.youtube.com/watch?v=iHvHLUNjBkU)
 
 
+## Zoom Levels
 
-Multiple alignments can be displayed in three zoom levels.
+The visualization of multiple alignments depends on the zoom level.
 
 * The most detailed level shows mismatches and gaps for each alignment. Hovering over the track displays the names of the species on the left.
 <img src="/img/maf_zoomA.png"/>

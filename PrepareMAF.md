@@ -1,6 +1,10 @@
 # Preparing MAF
 
-The best way to create genome alignment data is with a MAF file.
+The best way to create genome alignment data is with a [MAF](https://biopython.org/wiki/Multiple_Alignment_Format) (Multiple Alignment Format) file.
+
+<!-- also 
+[Details on the MAF format](https://cgwb.nci.nih.gov/goldenPath/help/maf.html)
+-->
 
 ##  Creating a multiple alignment
 
