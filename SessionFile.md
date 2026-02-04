@@ -2,17 +2,17 @@
 
 A session file allows you to organize a large number of data files and config options in a single file.
 
-
 [Here is an example session file](/files/mtb_h37rv_v2/session.php)
 
-You may need to copy it to your filesystem before you can open this.
-
-https://raw.githubusercontent.com/GenomeView/genomeviewweb/refs/heads/main/files/mtb_h37rv_v2/session.php
+You need to copy the file to your filesystem before you can open this with `File / Open Session`.
 
 
 You can use 'View source', or something similar, in your browser to see the actual file structure. It is a plain text file with on each line a file that needs to be loaded.
 
+
 ## File structure
+This file format is specific for GenomeView. Therefore this section gives the fine details of this format.
+
 
 ### Header
 
