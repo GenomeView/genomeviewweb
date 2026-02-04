@@ -89,9 +89,7 @@ We have several manuals for you
 
 * [The User Manual](UserManual.md)
 
-* [The Platform User Manual](PlatformUserManual.md)
-
-* [The Developer Manual](DeveloperManual.md)
+* [Programming with GenomeView](Programming.md)
 
 ## Source code
 

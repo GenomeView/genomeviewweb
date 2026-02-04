@@ -2,8 +2,6 @@
 
 GenomeView is completely open-source and this allows you to write program that manipulate GenomeView or re-use parts of GenomeView, in particular the visualization component.
 
-This is not yet for the faint-hearted. We are still in the process of documenting the GenomeView API, so expect a lot of documentation to be minimal.
-
 One important thing to remember is that GenomeView is completely multi-threaded and virtually none of the methods is blocking. Unfortunately, this also often means that returned data can be incomplete and developers should implement proper checks or use other tricks to make sure output is sufficiently complete.
 
 ## Scripting GenomeView
