@@ -15,14 +15,12 @@ Typically coverage-only data files are TDF files, while coverage+SNP files are p
 
 
 ![Detailed description of component of the pile up track](/img/pileup2.PNG)
-<bDetailed description of component of the pile up track</b>
+<b>Detailed description of component of the pile up track</b>
 
 
 ![](/img/strandspecificTDF.PNG)
 <b>A strand-specific coverage plots</b>
 
-
-[The ]file format details](https://en.wikipedia.org/wiki/Pileup_format)
 
 ## Zoom levels
 
