@@ -25,7 +25,15 @@ This configures the [Structure Track](GeneStructureTrack.md).
 
 ## AA & nucleotide colors
 In this tab you can adjust the colors of the various nucleotides.
-The default is that a is red, t green, g blue, c yellow, n black. 
+The default is that
+
+|Nucleotide|Color|
+|---|---|
+|A|red|
+|T|green|
+|G|blue|
+|C|yellow|
+|N|black|
 
 ## Feature Track
 This configures the [FeatureTrack](FeatureTrack.md)
