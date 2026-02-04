@@ -12,7 +12,7 @@ to be changed. The documentation of the values currently is only in the
 [example configuration](https://github.com/GenomeView/genomeview/blob/master/src/main/resources/conf/default.conf) file.
 
 ## Structure View
-This configures the [Structure Track](GeneStructureTrack,md).
+This configures the [Structure Track](GeneStructureTrack.md).
 
 * Show only Methionine as start codon
 * Show structure track on start-up
@@ -56,7 +56,7 @@ This configures the [ShortReadTrack](ShortReadTrack.md).
 * Splicing color
 
 ## Pile Up Tracks
-This configures the [PileUp track](PileUpTrack.md)
+This configures the [Pileup track](PileupTrack.md)
 * cross connect the track scaling
 * Should all tracks use dynamic range?
 * Should all tracks be log scaled
