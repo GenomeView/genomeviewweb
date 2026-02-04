@@ -17,6 +17,7 @@ Typically coverage-only data files are TDF files, while coverage+SNP files are p
 ![Detailed description of component of the pile up track](/img/pileup2.PNG)
 <b>Detailed description of component of the pile up track</b>
 
+You can also provide strand-specific TDF data:
 
 ![](/img/strandspecificTDF.PNG)
 <b>A strand-specific coverage plots</b>
@@ -26,7 +27,7 @@ Typically coverage-only data files are TDF files, while coverage+SNP files are p
 
 The pile up track is used on two zoom levels.
 
-### Zoomed-out view
+### Zoomed-out view: Coverage
 Zoomed out enough, the view shows only the coverage plot
  and doesn't allow for hovering.
 <!--
@@ -34,7 +35,7 @@ Zoomed out enough, the view shows only the coverage plot
 -->
 
 <img src="/img/pileup_zoomin.png"/>
-Mismatches by nucleotide
+Standard coverage plot
 
 This coverage plot shows the number of matching reads with colors
 
@@ -46,15 +47,13 @@ This coverage plot shows the number of matching reads with colors
 
 
 
-### Zoomed-in View
+### Zoomed-in View: Coverage+SNP
 
 When zoomed in, an SNP track is added to the coverage plot,
 The SNP track shows mismatches per nucleotide.
+Also, Hovering over a position now shows you the exact number of matches, mismatches and coverage.
 
-Also, Hovering over a position shows you the exact number of matches, mismatches and coverage.
-
-
-This shows the SNP view using these colors
+These colors are used [According to the settings](Configure.md):
 
 |Nucleotide|Color|
 |---|---|
@@ -65,13 +64,5 @@ This shows the SNP view using these colors
 
 <img src="/img/pileup_snpzoom.png"/>
 <b>zoomed in: a coverage and an SNP plot</b>
-
-
-
-#### Pile-up
-
-
-
-#### SNP view
 
 
