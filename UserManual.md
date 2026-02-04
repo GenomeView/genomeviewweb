@@ -46,7 +46,7 @@ You can configure the behaviour using the [Configuration panel](Configure.md).
 
 # Interaction
 You interact with the views using 
-* the menus
+* [the menus](Menus.md)
 * [keyboard shortcuts](KeyboardShortcuts.md)
 * [mouse shortcuts](MouseShortcuts.md)
 
