@@ -6,8 +6,12 @@
 |Double left-clicking a feature|Select this feature and center the view around it|
 |Shift left-click a feature|Add this feature to the current selection|
 |Shift left-click a selected feature|Remove this feature from the current selection|
-|Mouse-wheel scrolling|Zoom-in and zoom-out|
+|Mouse-wheel|Scroll up and down through tracks|
+|Shift Mouse-wheel|move left and right|
 |Right-click or mouse-wheel click|Show pop-up menu|
+|Ctrl+scroll wheel|Zoom in and out|
+|Drag|move left and right|
+|Shift-drag|select sequence|
 
 ## Structure panel specific actions
 
