@@ -3,7 +3,7 @@
 A session file allows you to organize a large number of data files and config options in a single file.
 
 
-An example session file:
+[Here is an example session file](/files/mtb_h37rv_v2/session.php)
 
 https://raw.githubusercontent.com/GenomeView/genomeviewweb/refs/heads/main/files/mtb_h37rv_v2/session.php
 

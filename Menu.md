@@ -10,8 +10,8 @@ The file menu deals with loading and saving tracks and general configuration
 |---|---|
 |[Load Data](LoadData.md)|Open data and add a track. Can be either URL or local file|
 |Show Data Explorer|Similar to Load Data but shows also recently used files|
-|Save Session|Saves a GenomeView Session file|
-|Load Session|Loads a GenomeView Session file|
+|Save Session|Saves a [GenomeView Session file](SessionFile.md)|
+|Load Session|Loads a [GenomeView Session file](SessionFile.md)|
 |[Save Annotation](SaveExportData.md)|save your added annotations.|
 |[Export Data](SaveExportData.md)|Export original data you loaded|
 |Export Image|Export the Visualization Frame as png|
