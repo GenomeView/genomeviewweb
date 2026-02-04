@@ -1,6 +1,6 @@
 # Command Line Options
 
-After you [installed GenomeView](Readme.md#installation), you have the executable jar file on your machine. 
+After you [installed GenomeView](README.md#installation), you have the executable jar file on your machine. 
 Add this jar file to the java CLASSPATH if you want GenomeView to be accessible from anywhere on your system. Alternatively you can always start from this directory or you can qualify the full path to the jar-file each time you start GenomeView.
 
 You can start GenomeView from the [commandline](CommandLine.md) by issuing the following command at the prompt
