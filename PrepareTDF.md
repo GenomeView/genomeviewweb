@@ -63,3 +63,9 @@ It is recommended that you convert this format to TDF with [wig2tdf](Wig2tdf.md)
 
 [samtools](http://sourceforge.net/projects/samtools/files/samtools/%7CDownload) 
 [tabix](https://sourceforge.net/projects/samtools/files/tabix/%7CDownload) 
+
+
+You can also create and visualize strand-specific coverage plots:
+![](/img/strandspecificTDF.PNG)
+
+
