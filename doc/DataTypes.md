@@ -17,15 +17,15 @@ Why index files? Indexing will create a look-up table for GenomeView to load dat
 
 This is a list of file formats that are recommended for different data types. See the full list of data types in the section below. 
 
-|Data type	|Recommended file format  |Instructions|
-|---|---|---|
-|Reference sequence	|fasta	|[Prepairing Reference Sequence](PrepareReferenceSequence.md)|
-|Annotation	|GFF3	|[Preparing Annotation](PrepareAnnotation.md)|
-|Read a alignments	|BAM	|Preparing read data|
-|Variation	|VCF	|Preparing VCF data|
-|Coverage summary - continuous values	|TDF	|Preparing value data|
-|Whole genome alignments	|MAF	|Preparing whole genome alignments|
-|Genome synteny	|experimental	|Preparing genome synteny|
+|Data type	|Recommended file format|
+|---|---|
+|Reference sequence	|[fasta](PrepareReferenceSequence.md)	|
+|Annotation	|[GFF3](PrepareAnnotation.md)	|
+|Read a alignments	|[BAM](PrepareBAM.md)	|
+|Variation	|[VCF](PrepareVcfData.md)	|
+|nucleotide coverage |[TDF](PrepareTDF.md)|
+|Whole genome alignments	|[MAF](PrepareMAF.md)|
+|Genome synteny	|[experimental](PrepareSenteny.md)|
 
 ## Supported data formats
 There are supported formats for reference sequences, annotation, Whole genome alignments
