@@ -12,7 +12,7 @@ In order to help you as quickly as possible, make sure to include the following 
 *    What operating system? OS X, Windows, ...?
 *    Which version of Java are you running?
 *    If you have problems with specific files, it is extremely helpful if you can share to files for us to reproduce the problem. Are those files local or remote?
-*    Include the log file from the problematic GenomeView run. Instructions to find log files can be found [here](README.md#Log-files)
+*    Include the log file from the problematic GenomeView run. Instructions to find log files can be found [here](/README.md#Log-files)
 
 
 ### How are display labels of features determined?
@@ -68,7 +68,7 @@ Upgrading to a recent version (>=2144) of GenomeView resolves this issue.
 
 
 ### Where do I find the log files?
-[Please refer to here](README.md#Log-files)
+[Please refer to here](/README.md#Log-files)
 
 
 ### How do I show annotation on a multiple alignment?

@@ -6,8 +6,8 @@ and suggests some actions you can do with GenomeView.
 You can also follow [one of the tutorials](Tutorials.md) instead.
 
 
-* [Install GenomeView](README.md#installation).
-* [Start GenomeView](README.md#start-genomeview)
+* [Install GenomeView](/README.md#installation).
+* [Start GenomeView](/README.md#start-genomeview)
 * Get your data ready: either
     * Get a [Demo Dataset](DemoData.md).
     * [Prepare your data](DataTypes.md)
