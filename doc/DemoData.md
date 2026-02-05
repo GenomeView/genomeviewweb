@@ -30,17 +30,14 @@ The visualizations for both formats are slightly different. You can either downl
 Caenorhabditis elegans is a small worm of about 1 mm in length that lives in temperate soil environments
 
 <table>
-<tr>
-<td>
-	<img src="/img/c.elegans.jpg" />
-	<b>C. elegans</b>
-<figure>
-</td><td>
-	<img src="/img/celegans.png" />
-	<b>C. elegans</b>
-</td>
-</tr>
+<tr><td><img src="/img/c.elegans.jpg" /></td><td><img src="/img/celegans.png" />
+</td></tr>
+<tr><td><b>C. elegans</b></td><td>	<b>C. elegans gene</b>
+</td></tr>
+
 </table>
+
+
 
 Download  or copy the link of  [C. elegans](https://software.broadinstitute.org/genomeview/demo/c_elegans/download/c_elegans.tar.gz). This basic data set includes the references sequence for C. elegans, as well as gene annotion. We also included an RNA-seq data set, both as individual reads and as a pileup track. 
 
