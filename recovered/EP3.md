@@ -1,7 +1,0 @@
-# EP3
-
-> [!WARNING]
-> Plugins are deprecated and will be removed soon.
-
-
-The EP3 plugin connects to the EP3 webservice to predict promoter regions in the selected sequence in GenomeView.\r\n\r\nEP3 is a tool for the identification of the core region of a eukaryotic gene promoter. It uses universal properties of the promoter to detect those regions in a whole genome context. EP3 has been tested on several eukaryotes ranging from protists to human. On mammalian genomes it is currently one of the best performing ab-initio predictors. \r\n\r\n<strong><a href=\"https://sourceforge.net/project/showfiles.php?group_id=208107&package_id=308003\">Download</a></strong>\r\n<!--break-->\r\n<strong>Note</strong>\r\nThis plugin sends data to the EP3 service, which is only freely available for academic use. Commercial users of this plugin should contact the authors of the webservice. From the authors website:\r\n<cite>\r\nThis software is licensed free for academic use. This license is strictly limited to the usage of the software. It is not permitted to distribute, modify, reverse engineer, embed, republish or otherwise handle the software besides using it for its intended purpose. Researchers are encouraged to <a href=\"http://bioinformatics.psb.ugent.be/webtools/ep3/?cite\">cite the accompanying paper</a>.</p>\r\n<p>For any other use (commercial, non-academic, source code, modifications, etc.), please <a href=\"http://bioinformatics.psb.ugent.be/\">contact the authors.</a>\r\n</cite>
