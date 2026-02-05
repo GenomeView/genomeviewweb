@@ -52,12 +52,5 @@ You interact with the views using
 * [mouse shortcuts](MouseShortcuts.md)
 
 
-# The Visualization Tracks
-Typically, a genome is viewed by viewing several data files related to this genome  simultaneously. 
-Each data file has its own data format and it is displayed in its own track in a style fitting the format.
-Therefore if you need a different visualization, you need to 
-[create the proper data file](PrepareReadData.md)
-first and then open it in the viewer.
-
 # FAQ
 Please check the [FAQ wiki](FAQ.md).
