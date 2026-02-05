@@ -2,10 +2,7 @@
 
 The tracks pane shows the data of the currently selected chromosome (as selected in the toolbar).
 
-All visualizations in GenomeView are organized into tracks. 
-A track typically holds on particular type of data or one particular data set. 
-There can be multiple tracks of each type.
-When loading new data, a new track is added.
+Every imported data file is shown in another track, using a visualizer appropriate for the type of the data. 
 
 <img src="/img/dmelan.png" />
 <b>Example: Tracks pane with 5 tracks</b>
