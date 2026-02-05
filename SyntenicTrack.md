@@ -1,5 +1,9 @@
 # Syntenic Track
 
+A syntenic maps aims to show similar blocks of genes in one genome or
+between different genomes. 
+Study of synteny can show how the genome is 
+cut and pasted in the course of evolution
 
 ### Fully zoomed out
 ![](/img/syntenic1.png)
