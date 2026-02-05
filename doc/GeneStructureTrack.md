@@ -9,6 +9,8 @@ Recommended File: [Fasta](PrepareFASTA.md)
 
 
 ![Gene Structure Track](/img/genestructuretrack2.PNG)
+<b>Major components of the user interface and their names</b>
+
 
 This tracks shows a number of things, some of which only are visible when you are sufficiently zoomed in. 
 Things to know about this track:
