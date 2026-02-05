@@ -22,7 +22,7 @@ This is a list of file formats that are recommended for different data types. Se
 |[Reference sequence](GeneStructureTrack.md)	|[fasta](PrepareFASTA.md)	|
 |[Annotation](FeatureTrack.md)	|[GFF3](PrepareGFF.md)	|
 |[Read alignments](ShortReadTrack.md)	|[BAM](PrepareBAM.md)	|
-|Variation|[VCF](PrepareVcf.md)	|
+|Variation|[VCF](PrepareVCF.md)	|
 |[nucleotide coverage](PileupTrack.md) |[TDF](PrepareTDF.md)|
 |[Whole genome alignments](MultipleAlignmentTrack.md)	|[MAF](PrepareMAF.md)|
 |[Genome synteny](SyntenicTrack.md)	|[experimental](PrepareSenteny.md)|
