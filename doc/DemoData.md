@@ -50,15 +50,11 @@ Drosophila melanogaster is often referred to as 'fruit fly'.
 
 
 <table>
-<tr>
-<td>
-	<img src="/img/fruitfly.jpg" />
-	<b>fruit fly</b>
-</td><td>
-	<img src="/img/dmelan.png" />
-	<b>Drosophila melanogaster gene</b>
-</td>
-</tr>
+<tr><td><img src="/img/fruitfly.jpg" /></td><td><img src="/img/dmelan.png" />
+</td></tr>
+<tr><td><b>fruit fly</b></td><td>	<b>Drosophila melanogaster gene</b>
+</td></tr>
+
 </table>
 
 
