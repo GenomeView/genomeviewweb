@@ -19,7 +19,7 @@ This is a list of file formats that are recommended for different data types. Se
 
 |Data type	|Recommended file format|
 |---|---|
-|Reference sequence	|[fasta](PrepareReferenceSequence.md)	|
+|Reference sequence	|[fasta](PrepareFASTA.md)	|
 |Annotation	|[GFF3](PrepareAnnotation.md)	|
 |Read a alignments	|[BAM](PrepareBAM.md)	|
 |Variation	|[VCF](PrepareVcfData.md)	|
