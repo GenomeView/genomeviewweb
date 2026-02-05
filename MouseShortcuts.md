@@ -1,3 +1,9 @@
+# Mouse shortcuts
+
+There are a lot of mouse actions: clicking, double clicking, dragging, and combinations 
+with modifier keys. Some actions are for specific tracks or info panels.
+
+
 # Structure and evidence panel mouse actions
 
 |action|effect|
@@ -29,8 +35,10 @@ These actions apply on mouse actions inside the [Feature Track](FeatureTrack.md)
 
 |action|effect|
 |---|---|
-|Click on Feature|Show details|
+|hover over feature|show details in popup|
+|Click on Feature|select this feature only and show details|
 |Double click on Feature|jump to ??|
+|shift click on feature|toggle selectedness of feature|
 
 
 ## Feature List panel specific actions

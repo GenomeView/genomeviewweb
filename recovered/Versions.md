@@ -487,7 +487,7 @@ The conservation graphs of the multiple alignment have been replaced with a more
 When zooming in further, as in the fourth screen shot, one can see the individual nucleotides and amino acids in the gene structure and the multiple alignments. The bottom footprint track has been replaced with a sequence logo for the multiple alignment, showing the relative frequency of all nucleotides in a particular position.
 
 
-#1.8
+# 1.8
 This releases features a major redesign of the plugin architectures that uses the JPF framework more properly and can account for dependencies between the different plugins. Together with this release we have also released two completely new plugins and we have updated the two plugins that were already available. The two new plugins are for NCBI Blast and for SpliceMachine (a splice site prediction program).
 
 Another big chance is the branching of the JAnnot package. All reusable data handling methods like parsers and data structures for biological sequences now reside in a separate project. 

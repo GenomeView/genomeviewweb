@@ -11,6 +11,8 @@ You can use the arrows on the keypad of your keyboard to move around in the evid
 |Keypad -|Zoom-out in the evidence and structure panel|
 |Arrow keys left|Move left.|
 |Arrow keys right|Move right.|
+|Arrow keys down|zoom out|
+|Arrow keys up|zoom in|
 
 ## Various keys
 
