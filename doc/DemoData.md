@@ -11,10 +11,9 @@ We have prepared B.anthracis, C.elegans and D.melanogaster for you.
 ## B. anthracis
 Bacillus anthracis is a bacterium that causes anthrax, a deadly disease to livestock and, occasionally, to humans.
 
-<figure>
-	<img src="/img/anthrax.png" width="40%"/>
-	<figcaption>Bacillus Anthracis (anthrax)</figcaption>
-<figure>
+<img src="/img/anthrax.png" width="40%"/>
+<b>Bacillus Anthracis (anthrax)</b>
+
 
   Download  or copy the link of  [B. anthracis basic dataset](https://software.broadinstitute.org/genomeview/demo/b_anthracis/). This dataset includes the references sequence for Bacillus anthracis, as well as annotion of genes, rRNAs and tRNAs. Two sequencing data sets are included. One whole genome sequencing to discover variations and one RNA-seq data set*.
   
@@ -33,15 +32,12 @@ Caenorhabditis elegans is a small worm of about 1 mm in length that lives in tem
 <table>
 <tr>
 <td>
-<figure>
 	<img src="/img/c.elegans.jpg" />
-	<figcaption>C. elegans</figcaption>
+	<b>C. elegans</b>
 <figure>
 </td><td>
-<figure>
 	<img src="/img/celegans.png" />
-	<figcaption>C. elegans</figcaption>
-<figure>
+	<b>C. elegans</b>
 </td>
 </tr>
 </table>
@@ -56,15 +52,11 @@ Drosophila melanogaster is often referred to as 'fruit fly'.
 <table>
 <tr>
 <td>
-<figure>
 	<img src="/img/fruitfly.jpg" />
-	<figcaption>fruit fly</figcaption>
-<figure>
+	<b>fruit fly</b>
 </td><td>
-<figure>
 	<img src="/img/dmelan.png" />
-	<figcaption>Drosophila melanogaster gene</figcaption>
-<figure>
+	<b>Drosophila melanogaster gene</b>
 </td>
 </tr>
 </table>
