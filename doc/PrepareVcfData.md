@@ -1,4 +1,4 @@
-Preparing VCF data
+# Preparing VCF data
 
 VCF (Variant Call Format) is a text file format that contains meta-information lines, a header line, and then data lines each each containing information about genetic variation at a position in the genome.
 

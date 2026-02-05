@@ -19,13 +19,13 @@ This is a list of file formats that are recommended for different data types. Se
 
 |Data type	|Recommended file format|
 |---|---|
-|Reference sequence	|[fasta](PrepareFASTA.md)	|
-|Annotation	|[GFF3](PrepareGFF.md)	|
-|Read a alignments	|[BAM](PrepareBAM.md)	|
-|Variation	|[VCF](PrepareVcfData.md)	|
-|nucleotide coverage |[TDF](PrepareTDF.md)|
-|Whole genome alignments	|[MAF](PrepareMAF.md)|
-|Genome synteny	|[experimental](PrepareSenteny.md)|
+|[Reference sequence](GeneStructureTrack.md)	|[fasta](PrepareFASTA.md)	|
+|[Annotation](FeatureTrack.md)	|[GFF3](PrepareGFF.md)	|
+|[Read alignments](ShortReadTrack.md)	|[BAM](PrepareBAM.md)	|
+|Variation|[VCF](PrepareVcfData.md)	|
+|[nucleotide coverage](PileupTrack.md) |[TDF](PrepareTDF.md)|
+|[Whole genome alignments](MultipleAlignmentTrack.md)	|[MAF](PrepareMAF.md)|
+|[Genome synteny](SyntenicTrack.md)	|[experimental](PrepareSenteny.md)|
 
 ## Supported data formats
 There are supported formats for reference sequences, annotation, Whole genome alignments
