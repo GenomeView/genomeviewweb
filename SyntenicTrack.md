@@ -1,5 +1,9 @@
 # Syntenic Track
 
+Recommended File: [synteny](PrepareSynteny.md)
+
+Configuration OptionsL: Unknown
+
 A syntenic maps aims to show similar blocks of genes in one genome or
 between different genomes. 
 Study of synteny can show how the genome is 
