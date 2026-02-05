@@ -30,7 +30,7 @@ Click on the track type to get more information on how this type works.
 |[Feature](FeatureTrack.md)|annotations|MemoryFeatureAnnotation, GFFWrapper, BEDWrapper|[gff3, bed](PrepareGFF.md)|
 |[Short-Read Track](ShortReadTrack.md)|short read alignment|ReadGroup|[bam](https://en.wikipedia.org/wiki/BAM_(file_format)), sam|
 |[Pile-Up](PileupTrack.md)|shows coverage, may include SNP|PileupWrapper, SWigWrapper,TDFData, BigWigData|msf, pup, pileup, tdf|
-|[Wiggle](WiggleTrack.md)|Unknown|Graph|wig, bigWig, bed|
+|[Wiggle](WiggleTrack.md)|general numeric data|Graph|wig, bigWig, bed|
 |[Multiple Alignment](MultipleAlignmentTrack.md)|alignment file|AlignmentAnnotation, AbstractMAFMultipleAlignment|[maf](PrepareMAF.md)|
 
 
