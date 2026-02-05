@@ -22,7 +22,8 @@ recommendations, links and instructions on how to use these tools.
 
 Below image shows the main user interface.
 
-![Overview of the GenomeView GUI](img/dualframe.png)
+![Overview of the GenomeView GUI](/img/dualframe.png)
+
 <b>Major components of the user interface and their names</b>
 
 * On the top there are the various [menus](Menu.md).
