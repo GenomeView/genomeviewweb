@@ -12,8 +12,8 @@ The file menu deals with loading and saving tracks and general configuration
 |Show Data Explorer|Similar to Load Data but shows also recently used files|
 |Save Session|Saves a [GenomeView Session file](SessionFile.md)|
 |Load Session|Loads a [GenomeView Session file](SessionFile.md)|
-|[Save Annotation](SaveExportData.md)|save your added annotations.|
-|[Export Data](SaveExportData.md)|Export original data you loaded|
+|[Save Annotation](SaveExportData.md#save-annotations)|save your added annotations.|
+|[Export Data](SaveExportData.md#save-data)|Export original data you loaded|
 |Export Image|Export the Visualization Frame as png|
 |Configuration|Opens the [Configuration pane](Configure.md) where you can adjust preferences|
 |Unload all data|removes all tracks and opens the data explorer|

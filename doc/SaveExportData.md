@@ -1,5 +1,8 @@
 # Saving and exporting data
 
+Saving data and saving annotations is done separately.
+
+## Save data
 To export original data files You can export the original data files using the `File / Export data` menu.
 
 This will export the original files as you loaded them. 
@@ -7,7 +10,7 @@ This will export the original files as you loaded them.
 > [!WARNING]
 > This will <b>not</b> include any changes you made to the annotations. 
 
-## To save changes you made
+## Save Annotations
 
 You can save any changes you made, along with the unchanged annotations using the `File > Save Annotation` menu.
 
