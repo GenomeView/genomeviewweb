@@ -20,7 +20,7 @@ GernomeView offers
 
 ## Project Samples, Demos
 
-[several demo videos are available](DemoVideos.md)
+[several demo videos are available](doc/DemoVideos.md)
 
 <table>
 <tr>
@@ -59,7 +59,7 @@ Recommended system specs:
 ## Start GenomeView
 * Start the app, using one of the following
     * double click on the jar file to start the app. This will run with the default memory.
-    * on if you want to use specific startup options, eg extra memory, with [commandline options](CommandLineOptions.md)
+    * on if you want to use specific startup options, eg extra memory, with [commandline options](doc/CommandLineOptions.md)
 
 > [!TIP]
 > 'double click to start' may require you to set the jar file to 'executable' and/or 
@@ -85,11 +85,11 @@ If you can still start GenomeView, you can find the exact location under the 'He
 
 We have several manuals for you
 
-* [Quick Start Guide](StartGuide.md)
+* [Quick Start Guide](doc/StartGuide.md)
 
-* [The User Manual](UserManual.md)
+* [The User Manual](doc/UserManual.md)
 
-* [Programming with GenomeView](Programming.md)
+* [Programming with GenomeView](doc/Programming.md)
 
 ## Source code
 

@@ -27,7 +27,7 @@ Check [Prepare Data](PrepareData.md) for supported file formats and preparing yo
 ### File/Open menu
 
 * Select menu `File/Load Data`  or press CTRL+O.  <br>
-     <img src="img/loaddata.png" width="30%"/>
+     <img src="/img/loaddata.png" width="30%"/>
 * select "Open local file"
 * Pick your file
 
@@ -43,7 +43,7 @@ Click to play video
 
 ### Loading data from a URL
 * Select menu `File/Load Data` . <br>
-     <img src="img/loaddata.png" width="30%"/>
+     <img src="/img/loaddata.png" width="30%"/>
 * select "Open URL"
 * Paste your URL into the panel
 * click OK

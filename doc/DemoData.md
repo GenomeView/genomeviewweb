@@ -12,7 +12,7 @@ We have prepared B.anthracis, C.elegans and D.melanogaster for you.
 Bacillus anthracis is a bacterium that causes anthrax, a deadly disease to livestock and, occasionally, to humans.
 
 <figure>
-	<img src="img/anthrax.png" width="40%"/>
+	<img src="/img/anthrax.png" width="40%"/>
 	<figcaption>Bacillus Anthracis (anthrax)</figcaption>
 <figure>
 
@@ -34,12 +34,12 @@ Caenorhabditis elegans is a small worm of about 1 mm in length that lives in tem
 <tr>
 <td>
 <figure>
-	<img src="img/c.elegans.jpg" />
+	<img src="/img/c.elegans.jpg" />
 	<figcaption>C. elegans</figcaption>
 <figure>
 </td><td>
 <figure>
-	<img src="img/celegans.png" />
+	<img src="/img/celegans.png" />
 	<figcaption>C. elegans</figcaption>
 <figure>
 </td>
@@ -57,12 +57,12 @@ Drosophila melanogaster is often referred to as 'fruit fly'.
 <tr>
 <td>
 <figure>
-	<img src="img/fruitfly.jpg" />
+	<img src="/img/fruitfly.jpg" />
 	<figcaption>fruit fly</figcaption>
 <figure>
 </td><td>
 <figure>
-	<img src="img/dmelan.png" />
+	<img src="/img/dmelan.png" />
 	<figcaption>Drosophila melanogaster gene</figcaption>
 <figure>
 </td>
