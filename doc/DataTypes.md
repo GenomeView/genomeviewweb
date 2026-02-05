@@ -20,7 +20,7 @@ This is a list of file formats that are recommended for different data types. Se
 |Data type	|Recommended file format|
 |---|---|
 |Reference sequence	|[fasta](PrepareFASTA.md)	|
-|Annotation	|[GFF3](PrepareAnnotation.md)	|
+|Annotation	|[GFF3](PrepareGFF.md)	|
 |Read a alignments	|[BAM](PrepareBAM.md)	|
 |Variation	|[VCF](PrepareVcfData.md)	|
 |nucleotide coverage |[TDF](PrepareTDF.md)|
