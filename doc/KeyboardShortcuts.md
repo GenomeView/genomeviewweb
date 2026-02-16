@@ -26,7 +26,7 @@ You can use the arrows on the keypad of your keyboard to move around in the evid
 |ctrl-M|Merge two or more selected features|
 |ctrl-N|Create a new feature from the selected sequence|
 |ctrl-O|Load features from a file|
-|ctrl-Q|Open the SequenceView|
+|ctrl-Q|Quit GenomeView|
 |ctrl-S|Save|
 |ctrl-U|Split a feature between two selected locations|
 
