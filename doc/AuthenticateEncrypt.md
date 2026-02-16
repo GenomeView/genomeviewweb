@@ -1,5 +1,8 @@
 # Setting up authentication and encryption
 
+> [!NOTE]
+> This is an old page. It is not clear how to use GenomeView on a web server.
+
 ## Authentication
 GenomeView supports BasicAuth for webservers
 

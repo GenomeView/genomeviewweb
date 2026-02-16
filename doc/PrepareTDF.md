@@ -10,7 +10,7 @@ You can create TDF files directly from BAM files or from wig files.
 
 ## Creating TDF files (recommended)
 
-* [bam2tdf](Bam2tdf.md): convert read alignment to coverage plot
+* [bam2tdf](https://github.com/Wouter1/genometools): convert read alignment to coverage plot
 * [wig2tdf](Wig2tdf.md): convert wig formatted data to tdf formatted data
 
 
