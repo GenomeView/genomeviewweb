@@ -44,21 +44,6 @@ You can rename your CDS features in one file to CDS_Method1 or CDS_old and have 
 
 It was a deliberate decision to distinguish annotation items by type rather then by source.
 
-### How do I create PDF/vector graphics/publication images?
-
-You will want to install the Save2PDF plugin
-http://genomeview.org/plugins  DL
-
-Download the zip-file, and extract it.
-
-Copy the jar file to your '.genomeview/plugin' folder.
-
-On Linux, it should be (hidden) in your /home/ directory.
-On Windows: C:\Users\\.genomeview\plugin
-
-Next time you start GenomeView, there now should be a menu item under
-'Plugins' saying "Export > Export image as PDF...".
-
 
 ### Why are my bam/tdf files not showing?
 
