@@ -37,3 +37,33 @@ The edit menu deals with editing sequences and annotations
 |Extend to next stop codon|extend the selected feature|
 
 
+### Navigation Menu
+The navigation menu is to search in the tracks
+|Navigation Menu Item|Use|
+|---|---|
+|Go to Position| |
+|Go to track| |
+|Search| ?|
+
+### Selection Menu
+|Selection Menu Item|Use|
+|---|---|
+|Show DNA or Proteine sequence|shows list of nucleotides in selection. You also have buttons to search the sequence in BLAST databases and export to FASTA |
+|Clear Feature Selection| de-selects the selected feature(s)|
+|Clear region selection|de-selects the selected region|
+|Zoom to selected features|zooms such that the features in the current selection are screen filling. CHECK|
+|zoom to feature selection|Zooms such that all features in the current selection are in view. CHECK|
+|zoom to location selection|?|
+
+### Plugins
+Will be removed
+
+
+###
+|Help Menu Item|Use|
+|---|---|
+|help|Opens browser at documentation page. |
+|Post bug report or feature request|Open browser at github.com/GenomeView/genomeview/issues. You need a github account to post issues here. |
+|List of installed modules|will be removed |
+|Plugin documentation|will be removed|
+|About|shows about box|
