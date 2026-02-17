@@ -1,7 +1,6 @@
 # Data Types
 
 Before you load your data, you may want to make sure you're using a supported format from the list below. The data type also determines the type of [Track](Track.md) you will get.
-Generally, GenomeView will notify you if it doesn't understand your data. 
 
 
 ## Data preparation recipe
@@ -11,7 +10,8 @@ Generally, GenomeView will notify you if it doesn't understand your data.
 1. Convert file formats to get desired visuals (check table below)
 1. Load data (see above)
 
-Why index files? Indexing will create a look-up table for GenomeView to load data on-the-fly. This will will speed up browsing and loading speed, as well as significantly reduce the amount of memory you need. For some file formats we recommend you create indices, for other we do not. See the table below for more details and links to instructions. 
+> [!TIP]
+> Indexing will create a look-up table for GenomeView to load data on-the-fly. This will will speed up browsing and loading speed, as well as significantly reduce the amount of memory you need. For some file formats we recommend you create indices, for other we do not. See the table below for more details and links to instructions. 
 
 ## Recommended file formats
 
@@ -94,7 +94,7 @@ GenomeView can automatically convert wig files to TDF. Caveats: 'track' informat
 <!-- straight copy of original table because special layout -->
 <table border="1"><tbody>
 <tr><th>Data type</th><th>File format</th><th>Index*</th><th colspan="2">Max size**</th><th>Comments</th></tr>
-<tr><td>Genome variation</td><td><b> <a href="PrepareVCF.md" class="mw-redirect" title="Vcf">vcf</a></b> <sup>¤</sup></td><td>Not recommended</td><td>--</td><td>unlimited</td><td>It is recommended to run <a href="ReduceVcf.md" title="Reducevcf">reducevcf</a> on VCF prior to loading them, this will speed up the loading time significantly.</td></tr>
+<tr><td>Genome variation</td><td><b> <a href="PrepareVCF.md" class="mw-redirect" title="Vcf">vcf</a></b> <sup>¤</sup></td><td>Not recommended</td><td>--</td><td>unlimited</td><td>It is recommended to run <a href="https://github.com/Wouter1/genometools" title="Reducevcf">reducevcf</a> on VCF prior to loading them, this will speed up the loading time significantly.</td></tr>
 </tbody></table>
 
 
@@ -125,5 +125,19 @@ All data that is loaded can be exported in their original format. This will not 
 
 ## Converting formats
 
+For conversion we recommend to use [picard](https://github.com/broadinstitute/picard) or 
+[samtools](https://github.com/samtools), Samtools is a collection of smaller tools, 
+where the [htsjdk tool](https://github.com/samtools/htsjdk) is in java and probably the most convenient.
+
+> {!NOTE]
+> Both libraries are not available in jar format adn need to be built from scratch. 
+
+
 We offer a few [tools to convert files between formats](/loki).
 
+
+
+## Other documentation
+You can also check the following resources for additional info
+
+* [SAM/BAM and related specifications](https://github.com/samtools/hts-specs)

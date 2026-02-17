@@ -2,8 +2,6 @@
 
 You can load data from files from your computer, or you can load data from a file that lives on the internet by its URL.
 
-
-
 ## Opening a file
 
 You can load your data files in various ways:
@@ -21,7 +19,8 @@ You can load preloaded data by:
 * selecting a genome from the Genome Explorer
 * following a link from a GenomeView enabled website
 
-Check [Prepare Data](PrepareData.md) for supported file formats and preparing your data for loading.
+The type of data you load determines which track type will be used to show the data.
+Check [the tracks overview](Tracks.md) or [the data types overview](DataTypes.md) for supported file formats and preparing your data for loading.
 
 
 ### File/Open menu

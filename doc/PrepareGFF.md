@@ -1,6 +1,6 @@
 # Preparing GFF3/BED
 
-Annotation data can be placed in GFF3 or BED files. 
+Annotation data can be placed in [GFF3](https://en.wikipedia.org/wiki/General_feature_format) or BED files. 
 
 Large feature files need to be indexed before you can use them properly in GenomeView.
 
@@ -14,12 +14,16 @@ The definition of large is not strict in the sense that it depends on both the r
 *    You should not included multiple types (mRNA,CDS, ...) of annotation in a single file as all features will be loaded in a single track with the file name as label. We suggest you put each type in its own file.
 
 ### Instructions 
-To index a file, you need to pre-process it with tabix, much like is done with pile-up files.
 
-Tabix can be downloaded from the [tabix download page](https://sourceforge.net/projects/samtools/files/tabix/).
+The tools for this are  available in [htsjdk](https://github.com/samtools/htsjdk)
+
+To index a file, you need to pre-process it with tabix (part of htsjdk), much like is done with pile-up files.
+
 
 ## BED formatted files
 
+
+OLD
 ```
 sort -k1,1 -k2,2n input.bed | bgzip -c > compressed.bed.bgz
 tabix -p bed compressed.bed.bgz
@@ -36,6 +40,7 @@ You will get two new files: (1) a bgz file and (2) a tbi file. Load the bgz file
 >[!WARNING]
 >Compound features will be broken up during indexing of gff files.
 
+OLD
 ```
 sort -T /group/tmp -k1,1 -k4,4n input.gff | bgzip -c > compressed.gff.bgz
 tabix -p gff compressed.gff.bgz

@@ -34,4 +34,4 @@ To index a fasta file you run
 > [!WARNING]
 > If your file was called reference.fasta, GenomeView will search for reference.fasta.fai in the same directory. If you want to be able to load large files, make sure those two files are correctly named and in the same folder.
 
-You can download the [samtools package from Sourceforge](http://samtools.sourceforge.net/). 
+You can download the [samtools package here](https://www.htslib.org/download/). 

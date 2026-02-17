@@ -77,6 +77,12 @@ If you would like any of the genomes at UCSC or Ensembl included in the Genome E
 
 [Ensembl downloads](http://ensembl.org/info/data/ftp/index.html)
 
+[International Genome Sample Resource (former 1000genomes)](https://www.internationalgenome.org/)
+
+[1001 Genomes of Arabidopsis thaliana](https://1001genomes.org/)
+
+[Santa Cruz Genome browser](https://genome.ucsc.edu/)
+
 ### Sequencing data sets
 [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra\) is a repository that stores raw sequencing data from next generation of sequencing platforms.
 

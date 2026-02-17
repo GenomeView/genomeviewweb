@@ -21,9 +21,9 @@ There are two things to prepare data fresh from the aligner.
 
 ### With Picard (OS independent, recommended)
 
-You need to have a a recent version of Java installed and you need to run these commands on the [command-line](CommandLine.md). There are download links with each program where you can fetch the exact version that these manual pages were tested with. Alternatively, you may want to install a more recent version of [Picard](https://github.com/broadinstitute/picard). 
+You need to have a a recent version of Java installed and you need to run these commands on the [command-line](CommandLine.md). You need to download  [Picard](https://github.com/broadinstitute/picard). 
 
-In this example we have a read alignment in BAM format called 'alignment.sam'. We use the program [SortSam](https://www.genepattern.org/modules/docs/Picard.SortSam/4/) from Picard to sort the file by coordinates. This also works if your aligner gives you a BAM file as output, i.e. 'alignment.bam'
+In this example we have a read alignment in BAM format called 'alignment.sam'. We use [SortSam](https://www.genepattern.org/modules/docs/Picard.SortSam/4/) from Picard to sort the file by coordinates. This also works if your aligner gives you a BAM file as output, i.e. 'alignment.bam'
 
 #### Sorting 
 The instruction below will sort the SAM file by coordinate. 
