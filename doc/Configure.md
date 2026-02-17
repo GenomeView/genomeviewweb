@@ -72,10 +72,10 @@ This configures the [Pileup track](PileupTrack.md)
 * switch from bar chart to line graph at ...
 
 ## Comparative track
-* Enable comparative annotations
-* Annotation type for comparative annotations: (text field! What are the options? Should be combobox?)
-* Max visible range of comparative annotation: N
-* Display extended names
+* Enable comparative annotations. (on).
+* Annotation type for comparative annotations: (`CDS`)
+* Max visible range of comparative annotation: (50000)
+* Display extended names (off)
 
 ## Miscellaneous
 * Max zoom-out size
