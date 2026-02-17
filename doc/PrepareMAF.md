@@ -16,19 +16,4 @@ The best way to create genome alignment data is with a [MAF](https://biopython.o
     1. Generate the multiple alignment Example:  `tba "(((((((human chimp) gorilla) baboon) (rat mouse)) (cow pig)) chicken) fugu)" *.*.maf tba.maf >&tba.log`
     1. "project" the alignment onto a reference sequence.   This will not make it a reference-based alignment; it just allows for visualization. Example:  `maf_project tba.maf chicken > tba_project_chicken.maf`
 
-## Loading .maf files into GenomeView
-Once you have a .maf multiple alignment, projected onto a reference genome, you can load this into GenomeView.
-
-* verify that all contig ID’s used in the .maf file match the contig ID’s used in your genome sequence and annotation files. 
-* Load the genome sequence, annotation, and .maf file with matching contig ID’s into Genomeview.
-* Load in one annotation file for each genome in your multiple alignment (checking to make sure all contig ID’s match those used in the .maf file).
-* You should now see annotations for each genome in the multiple alignment.
-
-
-If the annotations do not show up as a track, check your Configuration
-
-## Configuration
-Configuration options and default settings 
-are on the [Configuration panel](Configure.md#Comparative-track).
-
-
+After preparing the MAF file, you can [load it as MultipleAlignmentTrack](MultipleAlignmentTrack.md)
