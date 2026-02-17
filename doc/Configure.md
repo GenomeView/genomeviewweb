@@ -14,14 +14,14 @@ to be changed. The documentation of the values currently is only in the
 ## Structure View
 This configures the [Structure Track](GeneStructureTrack.md).
 
-* Show only Methionine as start codon
-* Show structure track on start-up
-* Height of track in pixels
-* Color start codons
-* Color stop codons
-* Color nucleotides
-* Color splice sites (overrides nucleotide coloring)
-* Maximum number of features to display
+* Show only Methionine as start codon (on)
+* Show structure track on start-up (on)
+* Height of track in pixels (on)
+* Color start codons (on)
+* Color stop codons (on)
+* Color nucleotides (on)
+* Color splice sites (overrides nucleotide coloring)  (on)
+* Maximum number of features to display (on)
 
 ## AA & nucleotide colors
 In this tab you can adjust the colors of the various nucleotides.
@@ -37,7 +37,7 @@ The default is that
 
 ## Feature Track
 This configures the [FeatureTrack](FeatureTrack.md)
-* Force labels on features
+* Force labels on features (off)
 * Colors of feature types: 
    * color for NORMAL
    * color for  UTILITY 
@@ -46,46 +46,53 @@ This configures the [FeatureTrack](FeatureTrack.md)
 
 ## Short Reads
 This configures the [ShortReadTrack](ShortReadTrack.md).
-* height of coverage graph. what is this, number of lines available in the plot?
-* Heigth SNP track. Is a "SNP track" a short read?
-* Minimum coverage for SNPs to be shown. 
-* Maximum number of displayed reads. What does this mean? 25000 reads sounds very small, given human dna is done with 30x coverage or more? What if there are more reads?
-* Max display depth of stacked reads
-* Draw connection between paired reads. 
-* max number of reads to cache. 
-* max distance between paired reads. (Why is this value twice?)
-* Color reads mapping to the forward strand for sense transcripts
-* Color reads mapping to the reverse strand for sense transcripts
-* Color reads mapping to the forward strand for anti-sense transcripts
-* Color reads mapping to the reverse strand for anti-sense transcripts
-* Color of line between paired reads
-* Mate different chromosome
-* Missing mate
+
+* height of coverage graph. what is this, number of lines available in the plot? (50)
+* Heigth SNP track. Is a "SNP track" a short read? (40)
+* Minimum coverage for SNPs to be shown. (10)
+* Maximum number of displayed reads. (25000)
+* Maximum range in nucleotide to display individual reads (25000)
+* Max display depth of stacked reads (50)
+* Draw connection between paired reads. (on)
+* max number of reads to cache. (500000)
+* max distance between paired reads. (2000)
+* Color reads mapping to the forward strand for sense transcripts (green)
+* Color reads mapping to the reverse strand for sense transcripts (blue)
+* Color reads mapping to the forward strand for anti-sense transcripts (orange)
+* Color reads mapping to the reverse strand for anti-sense transcripts (cyan)
+* Color of line between paired reads (magenta)
+* Mate different chromosome (magenta)
+* Missing mate (red)
+* Splitting color (magenta)
 * Splicing color
 
 ## Pile Up Tracks
 This configures the [Pileup track](PileupTrack.md)
-* cross connect the track scaling
-* Should all tracks use dynamic range?
-* Should all tracks be log scaled
-* Max height of pileup track
-* switch from bar chart to line graph at ...
+
+* cross connect the track scaling (off)
+* Should all tracks use dynamic range? (off)
+* Should all tracks be log scaled  (off)
+* Max height of pileup track (1)
+* switch from bar chart to line graph at ... (1000000000)
 
 ## Comparative track
+This configures the [Multiple Alignment Track](MultipleAlignmentTrack.md)
+
 * Enable comparative annotations. (on).
 * Annotation type for comparative annotations: (`CDS`)
 * Max visible range of comparative annotation: (50000)
 * Display extended names (off)
 
 ## Miscellaneous
-* Max zoom-out size
-* Enable dual-screen mode
-* Allow only one instance of GenomeView
-* Enable genetic code selection
-* Resolution increase factor
-* select preferred language
-* disable url caching
-* reset configuration
+* Max zoom-out size (25000000)
+* Monitor network connection (on)
+* Enable dual-screen mode (off)
+* Allow only one instance of GenomeView (off)
+* Enable genetic code selection (off)
+* Resolution increase factor (4)
+* select preferred language (automatic)
+* disable url caching (on)
+* reset configuration (click to reset all)
 * empty cache
 
 
