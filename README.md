@@ -93,7 +93,7 @@ We have several manuals for you
 
 ## Source code
 
-The source code is available on [http://github.com/genomeview/genomeview](github). .
+The source code is available on http://github.com/genomeview/genomeview .
 
 
 
