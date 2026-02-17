@@ -12,7 +12,7 @@ In this section we explore how to manipulate GenomeView from within your program
 
 <h2>Embedding the GenomeView visualization component in other software </h2>
 
-<a href="https://github.com/GenomeView/genomeview/blob/master/src/main/java/net/sf/genomeview/ascomponent/GenomeViewAsComponent.java">Documented source code is available from the code repository</a>.
+<a href="https://github.com/GenomeView/genomeview/blob/dev/src/main/java/net/sf/genomeview/ascomponent/GenomeViewAsComponent.java">Documented source code is available from the code repository</a>.
 
 
 
