@@ -26,7 +26,7 @@ This is a list of file formats that are recommended for different data types. Se
 |[nucleotide coverage](PileupTrack.md) |[TDF](PrepareTDF.md)|
 |[Whole genome alignments](MultipleAlignmentTrack.md)	|[MAF](PrepareMAF.md)|
 |[Genome synteny](SyntenicTrack.md)	|[experimental](PrepareSenteny.md)|
-|GenomwView Session|[Session File](SessionFile.md)|
+|GenomeView Session|[Session File](SessionFile.md)|
 
 ## Supported data formats
 There are supported formats for reference sequences, annotation, Whole genome alignments
@@ -115,6 +115,9 @@ GenomeView can automatically convert wig files to TDF. Caveats: 'track' informat
 *** Unindexed data files can be gzip compressed.
 
 ¤ Recommended file format for this data type.
+
+### GenomeView Session
+A session file allows you to organize a large number of data files and config options in a single file. Check the [wiki page](SessionFile.md) for details
 
 
 ## Output formats
