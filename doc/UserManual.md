@@ -12,7 +12,8 @@ by integrating various analysis result files into a unified visualization,
 and by providing means to add annotations.
 
 GenomeViewer can handle many of the existing analysis analysis formats,
-and provides standard visualization tools for each of them.
+and provides standard visualization tools for each of them. The approach taken
+by GenomeViewer is to have specialized [tracks](Tracks.md) for all [types of data](DataTypes.md). These tracks linearly visualize all kinds of data aligned with sequence positions.
 
 Usually analysis is done with external tools. We provide
 recommendations, links and instructions on how to use these tools.
