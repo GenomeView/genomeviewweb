@@ -56,7 +56,8 @@ Mismatches and gaps are shown for each alignment. Hovering over the track displa
 <img src="/img/maf_zoomA.png"/>
 
 
-
+## Tutorial
+You can follow our [tutorial on downloading and using a MAF file](TutorialMAF.md).
 
 
 ## Demo video

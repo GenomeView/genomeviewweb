@@ -6,9 +6,7 @@ and explore it in GenomeView.
 
 1. [Start GenomeView](/README.md#Start-GenomeView)
 1. [Load](LoadData.md) D. melanogaster genome from the [Demo Datasets](DemoData.md)
-1. [Load](LoadData.md) multiple alignment from UCSC
-
-The last step is discussed in detail in the next section
+1. Load multiple alignment from UCSC by following the instructions in the next section.
 
 ### Load multiple alignment from UCSC
 The URL for all multiple alignments for D. melanogaster is:
