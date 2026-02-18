@@ -2,6 +2,8 @@
 
 Annotation data can be placed in [GFF3](https://en.wikipedia.org/wiki/General_feature_format) or BED files. 
 
+A GFF file will be visualized as a [Feature Track](FeatureTrack.md)
+
 Large feature files need to be indexed before you can use them properly in GenomeView.
 
 The definition of large is not strict in the sense that it depends on both the real size of the file, as well as the number of features in the file.

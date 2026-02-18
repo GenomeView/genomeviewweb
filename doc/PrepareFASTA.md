@@ -4,6 +4,8 @@
 The FASTA format is a text based format for representing
 genome sequences. Usually it is used to improve performance using indexing.
 
+A FASTA track is visualized as a [Gene Structure Track](GeneStructureTrack.md)
+
 Check [wikipedia](https://en.wikipedia.org/wiki/FASTA_format) for details on the file format.
 
 ## Non-Indexed

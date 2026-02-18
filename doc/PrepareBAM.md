@@ -4,6 +4,8 @@
 
 The best format to present short read alignments to GenomeView is the SAM/BAM format. You need to have your read data in this format and it has to be aligned to a reference genome. 
 
+A BAM file will be visualized as a [Shortread track](ShortReadTrack.md)
+
 ## Aligning reads
 
 GenomeView is a visualization tool and does not do the computationally intensive read alignment. There are however dozens of tools already available to do this job.

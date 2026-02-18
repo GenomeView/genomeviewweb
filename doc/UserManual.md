@@ -1,6 +1,6 @@
 # GenomeView User Manual
 
-Welcome to the GenomeView User manual. These pages aim to explain the GenomeView user interface in depth.
+Welcome to the GenomeView User manual. These pages aim to explain the GenomeView user interface in depth. A [Quick start Guide](StartGuide.md) is also available.
 
 ## Introduction
 To gain insignt into genomes, they are analysed
