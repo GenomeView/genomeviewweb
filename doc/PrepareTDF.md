@@ -2,6 +2,8 @@
 
 There are three formats supported for value/continuous data. The TDF format is by far the most appropriate and the other formats should be considered legacy support.
 
+A TDF file will be shown as a [Pileup Track](PileupTrack.md).
+
 TDF is a tiled binary data format which contains the value plot, as well as multiple resolution summaries which allows fast retrieval at any scale.
 
 This format is an alternative to wig and the bigwig formats and is typically used for data that has a value per chromosomal position, like for example coverage data.

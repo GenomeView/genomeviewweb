@@ -48,7 +48,7 @@ Recommended system specs:
 ## Installation
 
 * Install java 17 or higher if it's not yet installed. 
-    * You can check by running 'java -version' in the commandline.  
+    * You can check by running 'java -version' in the [commandline](doc/CommandLine.md).  
     * You can get an installer from http://www.java.com or https://openjdk.org/. 
     * On linux you can `sudo apt install openjdk-17`
     * If you only want to run java you can install the `JRE`, for compilation you should install the `JDK`.
