@@ -1,12 +1,12 @@
 # Preparing FASTA
 
 
-The FASTA format is a text based format for representing
-genome sequences. Usually it is used to improve performance using indexing.
+The [FASTA](wikipedia](https://en.wikipedia.org/wiki/FASTA_format) format 
+is a text based format for representing genome sequences. 
+Usually it is used to improve performance using indexing.
 
 A FASTA track is visualized as a [Gene Structure Track](GeneStructureTrack.md)
 
-Check [wikipedia](https://en.wikipedia.org/wiki/FASTA_format) for details on the file format.
 
 ## Non-Indexed
 A sequence begins with a greater-than character (">") followed by a description of the sequence (all in a single line). The lines immediately following the description line are the sequence representation, with one letter per amino acid or nucleic acid, and are typically no more than 80 characters in length. 

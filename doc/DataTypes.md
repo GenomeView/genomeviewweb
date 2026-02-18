@@ -26,6 +26,7 @@ This is a list of file formats that are recommended for different data types. Se
 |[nucleotide coverage](PileupTrack.md) |[TDF](PrepareTDF.md)|
 |[Whole genome alignments](MultipleAlignmentTrack.md)	|[MAF](PrepareMAF.md)|
 |[Genome synteny](SyntenicTrack.md)	|[experimental](PrepareSenteny.md)|
+|GenomwView Session|[Session File](SessionFile.md)|
 
 ## Supported data formats
 There are supported formats for reference sequences, annotation, Whole genome alignments
