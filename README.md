@@ -89,7 +89,7 @@ We have several manuals for you
 
 * [Quick Start Guide](doc/StartGuide.md)
 
-* [Tutorial: starting with MAF](TutorialMAF.md)
+* [Tutorial: starting with MAF](doc/TutorialMAF.md)
 
 * [Programming with GenomeView](doc/Programming.md)
 
