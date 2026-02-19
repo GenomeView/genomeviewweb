@@ -10,6 +10,10 @@ It was initiated in the BEG group at [VIB](https://vib.be/en), then further deve
 ## Features
 
 GernomeView offers
+* Stand-alone genome visualization
+   * private 
+   * secure 
+   * consistent performance
 * Interactive Genome browser
 * zoom from whole genome level to single nucleotide
 * Short read alignment visualization
