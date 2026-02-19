@@ -85,17 +85,18 @@ If you can still start GenomeView, you can find the exact location under the 'He
 
 We have several manuals for you
 
-* [Quick Start Guide](doc/StartGuide.md)
-
 * [The User Manual](doc/UserManual.md)
 
+* [Quick Start Guide](doc/StartGuide.md)
+
+* [Tutorial: starting with MAF](TutorialMAF.md)
+
 * [Programming with GenomeView](doc/Programming.md)
+
 
 ## Source code
 
 The source code is available on http://github.com/genomeview/genomeview .
-
-
 
 
 # Citing

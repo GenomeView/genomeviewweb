@@ -4,6 +4,33 @@
 
 One important thing to remember is that GenomeView is completely multi-threaded and virtually none of the methods is blocking. Unfortunately, this also often means that returned data can be incomplete and developers should implement proper checks or use other tricks to make sure output is sufficiently complete.
 
+## Including GenomeView in your project
+You can include GenomeView by simply adding the dependency to your project:
+
+```
+<dependency>
+	<groupId>net.sf</groupId>
+	<artifactId>genomeview</artifactId>
+	<version>23.1.0</version>
+</dependency>
+```
+
+Note that 23.1.0 is just one version, you may want to use the latest version, 
+
+This is available from the following repository
+
+```
+    <repositories>
+        <repository>
+            <id>artifactory.ewi.tudelft.nl</id>
+            <url>https://artifactory.ewi.tudelft.nl/artifactory/libs-release</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+```
+
 ## Scripting GenomeView
 In this section we explore how to manipulate GenomeView from within your program. In our example well load some data sets, move to each each gene and take a snapshot.
 
