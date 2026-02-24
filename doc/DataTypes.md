@@ -130,12 +130,7 @@ All data that is loaded can be exported in their original format. This will not 
 ## Converting formats
 
 For conversion we recommend to use [picard](https://github.com/broadinstitute/picard) or 
-[samtools](https://github.com/samtools), Samtools is a collection of smaller tools, 
-where the [htsjdk tool](https://github.com/samtools/htsjdk) is in java and probably the most convenient.
-
-> {!NOTE]
-> Both libraries are not available in jar format adn need to be built from scratch. 
-
+[genometools](https://github.com/Wouter1/genometools).
 
 We offer a few [tools to convert files between formats](/loki).
 
