@@ -13,7 +13,7 @@ You can create TDF files directly from BAM files or from wig files.
 ## Creating TDF files (recommended)
 
 * [bam2tdf](https://github.com/Wouter1/genometools): convert read alignment to coverage plot
-* [wig2tdf](Wig2tdf.md): convert wig formatted data to tdf formatted data
+* [wig2tdf](https://github.com/Wouter1/genometools): convert wig formatted data to tdf formatted data
 
 
 ## SAMTools pileup (includes diversity information, i.e. SNP track)
@@ -61,7 +61,7 @@ sort -T . -k1,1 -k2,2n filename | bgzip -c > filename.bgz
 tabix -s 1 -b 2 -e 2 filename.bgz
 ```
 
-It is recommended that you convert this format to TDF with [wig2tdf](Wig2tdf.md).
+It is recommended that you convert this format to TDF with [wig2tdf](https://github.com/Wouter1/genometools).
 
 [samtools](http://sourceforge.net/projects/samtools/files/samtools/%7CDownload) 
 [tabix](https://sourceforge.net/projects/samtools/files/tabix/%7CDownload) 

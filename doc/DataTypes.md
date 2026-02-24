@@ -85,7 +85,7 @@ Genome variation and diversity, Allele diversity
 <tr><td rowspan="4" valign="top">Read coverage summary</td><td><b> <a href="PrepareValueData.md" class="mw-redirect" title="Tdf">tdf</a></b> <sup>¤</sup></td><td>Native</td><td>unlimited</td><td>unlimited</td><td><a href="/TDF" class="mw-redirect" title="PrepareTDF.md">TDF</a> files can be created with the <a href="Bam2tdf.md" title="Bam2tdf">bam2tdf</a> tool that is available for <a rel="nofollow" class="external text" href="https://github.com/Wouter1/genometools">download.</a></td></tr>
 <tr><td>bigwig</td><td>Native</td><td>unlimited</td><td>unlimited</td><td>This format can be used for any wig file, not just read coverage</td></tr>
 <tr><td><a href="PrepareTDF.md" title="Pileup">pileup</a></td><td>Required</td><td>--</td><td>unlimited</td><td>The pileup format becomes slow when you have extreme read depth (&gt;5000 x coverage)</td></tr>
-<tr><td>wig</td><td>Not possible</td><td>50 Mb</td><td>--</td><td>We strongly recommend to <a href="Wig2tdf.md" title="Wig2tdf">convert your wig files to TDF</a>. 
+<tr><td>wig</td><td>Not possible</td><td>50 Mb</td><td>--</td><td>We strongly recommend to <a href="https://github.com/Wouter1/genometools" title="Wig2tdf">convert your wig files to TDF</a>. 
 GenomeView can automatically convert wig files to TDF. Caveats: 'track' information should all be on a single line, 'browser' lines will be ignored as the are specific to the UCSC Genome Browser. WIG files need to be sorted by chromosome and by genomic coordinate within the chromosome. BedGraph as well as Wiggle_0 format is supported. For the wiggle_0 type, both variableStep and fixedStep should work.</td></tr>
 </tbody></table>
 
