@@ -27,7 +27,7 @@ This is a list of file formats that are recommended for different data types. Se
 |[Whole genome alignments](MultipleAlignmentTrack.md)	|[MAF](PrepareMAF.md)|
 |[Genome synteny](SyntenicTrack.md)	|[experimental](PrepareSenteny.md)|
 |GenomeView Session|[Session File](SessionFile.md)|
-|Syntenic Data|[SYN](PrepareSenteny.md#syntenic-file-format)|
+|[Syntenic Data](PrepareSenteny.md)|[SYN](PrepareSenteny.md#syntenic-file-format)|
 
 
 ## Supported data formats
