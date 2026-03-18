@@ -7,7 +7,26 @@ Configuration OptionsL: Unknown
 A syntenic maps aims to show similar blocks of genes in one genome or
 between different genomes. 
 Study of synteny can show how the genome is 
-cut and pasted in the course of evolution
+cut and pasted in the course of evolution.
+
+
+## Visualization
+The visualization of the syntenic data works as follows.
+You select the 'chromosome' with the [combobox in the toolbar at the top of the GUI](UserManual.md#the-user-interface).
+The selected chromosome name determines the reference track of the syntenic data. 
+Syntenic data is only shown if the selected chromosome name matches one of the names in the syntenic data.
+The syntenic data may refer only to part of the sequence data for of that chromosome.
+For example the sequence may have 100000 letters while the syntenic data only refers to 
+letters between 2000 and 3000. This 'active range' is then the actual syntenic reference. 
+The syntenic track will show a smooth color gradient bar at this range for the reference track.
+The other tracks that the syntenic refers to will be displayed below that reference track,
+also as a bar, but less smooth: each segment of this other track gets a color of the matching
+part in the reference track. 
+
+
+## zoom behaviour
+
+WARNING the below sections are from the old documentation and need updating.
 
 ### Fully zoomed out
 ![](/img/syntenic1.png)
