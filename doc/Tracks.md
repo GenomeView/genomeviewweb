@@ -32,6 +32,6 @@ Click on the track type to get more information on how this type works.
 |[Pile-Up](PileupTrack.md)|shows coverage, may include SNP|PileupWrapper, SWigWrapper,TDFData, BigWigData|msf, pup, pileup, tdf|
 |[Wiggle](WiggleTrack.md)|general numeric data|Graph|wig, bigWig, bed|
 |[Multiple Alignment](MultipleAlignmentTrack.md)|alignment file|AlignmentAnnotation, AbstractMAFMultipleAlignment|[maf](PrepareMAF.md)|
-
+|[Syntenic Track](SyntenicTrack.md)|matching genes in different sequences|SyntenicData|[syn](PrepareSenteny.md#syntenic-file-format)|
 
 Check [our wiki on all supported file types and conversion recommendations](DataTypes.md)

@@ -27,6 +27,8 @@ This is a list of file formats that are recommended for different data types. Se
 |[Whole genome alignments](MultipleAlignmentTrack.md)	|[MAF](PrepareMAF.md)|
 |[Genome synteny](SyntenicTrack.md)	|[experimental](PrepareSenteny.md)|
 |GenomeView Session|[Session File](SessionFile.md)|
+|Syntenic Data|[SYN](PrepareSenteny.md#syntenic-file-format)|
+
 
 ## Supported data formats
 There are supported formats for reference sequences, annotation, Whole genome alignments
@@ -108,13 +110,21 @@ GenomeView can automatically convert wig files to TDF. Caveats: 'track' informat
 </tbody></table>
 
 
-* Indicates whether this file format can/should be indexed. 
+### Syntenic
+<table border="1"><tbody>
+<tr><th>Data type</th><th>File format</th><th>Index*</th><th colspan="2">Max size**</th><th>Comments</th></tr>
+<tr><td>Syntenic Data</td><td><b> <a href="PrepareSenteny.md#syntenic-file-format" title="syn">syn</a></b></td><td>no</td><td>--</td><td>unlimited</td><td>avoid more than 50 names as this would result in overflowing visualizations</td></tr>
+</tbody></table>
 
-** Recommended maximum file size. First value is without index, the second with index. This values are only guidelines. When loading multiple data sets, you should add the sizes.
 
-*** Unindexed data files can be gzip compressed.
 
-¤ Recommended file format for this data type.
+`*` Indicates whether this file format can/should be indexed. 
+
+`**` Recommended maximum file size. First value is without index, the second with index. This values are only guidelines. When loading multiple data sets, you should add the sizes.
+
+`***` Unindexed data files can be gzip compressed.
+
+`¤` Recommended file format for this data type.
 
 ### GenomeView Session
 A session file allows you to organize a large number of data files and config options in a single file. Check the [wiki page](SessionFile.md) for details
