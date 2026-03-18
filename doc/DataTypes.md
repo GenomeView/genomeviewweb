@@ -25,7 +25,6 @@ This is a list of file formats that are recommended for different data types. Se
 |Variation|[VCF](PrepareVCF.md)	|
 |[nucleotide coverage](PileupTrack.md) |[TDF](PrepareTDF.md)|
 |[Whole genome alignments](MultipleAlignmentTrack.md)	|[MAF](PrepareMAF.md)|
-|[Genome synteny](SyntenicTrack.md)	|[experimental](PrepareSenteny.md)|
 |GenomeView Session|[Session File](SessionFile.md)|
 |[Syntenic Data](PrepareSenteny.md)|[SYN](PrepareSenteny.md#syntenic-file-format)|
 
