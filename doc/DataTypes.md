@@ -2,10 +2,12 @@
 
 Before you load your data, you may want to make sure you're using a supported format from the list below. The data type also determines the type of [Track](Track.md) you will get.
 
+The content in the data must be carefully matched so that all agree on the same names/IDs for the
+same things. [See DataStructure wiki for details](DataStructure.md)
 
 ## Data preparation recipe
 
-1. Match identifiers: GenomeView uses the identifiers to link different sources, so make sure that the identifiers match (case-sensitive).
+1. [Match identifiers](DataStructure.md): GenomeView uses the identifiers to link different sources, so make sure that the identifiers match (case-sensitive).
 1. Create indices for data files that need it (check table below)
 1. Convert file formats to get desired visuals (check table below)
 1. Load data (see above)
