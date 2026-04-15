@@ -12,10 +12,6 @@ By default the instructions will only work with the GenomeView instance that was
  <script>instanceID='ALL'</script>
 ```
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| launchGV(command line) | Launch GenomeView with the specified command line options. |
-| Content Cell  | Content Cell  |
 
 | Instruction | Description |
 | ----- | ----- |
@@ -64,12 +60,12 @@ GET /genomeview-ALL/[instruction]/[argument]
 
 ```
 Socket gv = new Socket("localhost", 2223);
-		PrintWriter pw=new PrintWriter(gv.getOutputStream());
-               /*pw.println("GET /genomeview-ALL/session/http://www.broadinstitute.org/software/genomeview/demo/c_elegans/session.php");*/
-                //pw.println("GET /genomeview-ALL/unload");
-		pw.println("GET /genomeview-ALL/position/10000:20000");
-		pw.flush();
-		gv.close();
+PrintWriter pw=new PrintWriter(gv.getOutputStream());
+             /*pw.println("GET /genomeview-ALL/session/http://www.broadinstitute.org/software/genomeview/demo/c_elegans/session.php");*/
+              //pw.println("GET /genomeview-ALL/unload");
+pw.println("GET /genomeview-ALL/position/10000:20000");
+pw.flush();
+gv.close();
 ```
 
 ### Available instructions:
