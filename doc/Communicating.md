@@ -21,7 +21,6 @@ By default the instructions will only work with the GenomeView instance that was
 | ----- | ----- |
 | launchGV(command line) | Launch GenomeView with the specified command line options. |
 | loadGV(url) | Load the data at the specified url |
-
 |unloadGV()| Unload all data that is currently loaded| 
 |sessionGV(url)|Load the GenomeView session at the specified URL| 
 |positionGV(position)|Move the visible region to the specified location. The position is in the format <code>[entry]:[start position]:[end position]</code> The entry part is optional can be omitted in which case it becomes <code>[start position]:[end position]</code>|
