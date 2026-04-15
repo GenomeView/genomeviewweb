@@ -13,7 +13,7 @@ By default the instructions will only work with the GenomeView instance that was
 ```
 
 !Instruction!Description |
-|---|---| 
+| --- | --- |
 |launchGV(command line)|Launch GenomeView with the specified command line options.|
 |loadGV(url)|Load the data at the specified url| 
 |unloadGV()| Unload all data that is currently loaded| 
