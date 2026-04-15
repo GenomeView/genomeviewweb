@@ -1,14 +1,18 @@
 It is '''important''' that you set <code>integration:monitorJavaScript=true</code> in your configuration file. Only if you add that line to the configuration file you specify, will communication work.
 
-## Controlling GenomeView using JavaScript (recommended)==
+## Controlling GenomeView using JavaScript (recommended)
 Include the GenomeView javascript file into your HTML page
- <nowiki><script type="text/javascript" src="http://genomeview.org/start/genomeview.js"></script></nowiki>
+```
+<script type="text/javascript" src="http://genomeview.org/start/genomeview.js"></script>
+```
 
-By default the instructions will only work with the GenomeView instance that was launched from the same page with launchGV() instruction. To override this behavior you can set the instanceID to 'ALL' or alternatively you can call 'setInstructAllInstancesGV()'
+By default the instructions will only work with the GenomeView instance that was launched from the same page with launchGV() instruction. To override this behavior you can set the instanceID to 'ALL' or alternatively you can call `setInstructAllInstancesGV()`
+
+```
  <script>instanceID='ALL'</script>
+```
 
-
-! Instruction! Description |
+!Instruction!Description |
 |---|---| 
 |launchGV(command line)|Launch GenomeView with the specified command line options.|
 |loadGV(url)|Load the data at the specified url| 
