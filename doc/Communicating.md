@@ -12,6 +12,11 @@ By default the instructions will only work with the GenomeView instance that was
  <script>instanceID='ALL'</script>
 ```
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ! Instruction ! Description |
 | --- | --- |
 |launchGV(command line)|Launch GenomeView with the specified command line options.|
