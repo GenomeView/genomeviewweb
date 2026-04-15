@@ -14,7 +14,7 @@ By default the instructions will only work with the GenomeView instance that was
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| launchGV(command line) | Launch GenomeView with the specified command line options. |
 | Content Cell  | Content Cell  |
 
 | Instruction ! Description |
